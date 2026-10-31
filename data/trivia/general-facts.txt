@@ -1,0 +1,52 @@
+easy|sports|How many players from one association-football team normally start on the field?|11|9|10|12|A standard association-football team starts with eleven players, including its goalkeeper.
+easy|sports|How many players per team are on the court in standard basketball?|5|4|6|7|Standard basketball has five players from each team on the court.
+easy|sports|How many rings appear in the Olympic symbol?|5|4|6|7|The Olympic symbol contains five interlocking rings.
+easy|sports|In tennis, which word means a score of zero?|Love|Deuce|Advantage|Let|A score of zero in tennis is called love.
+easy|sports|Which sport uses a shuttlecock?|Badminton|Squash|Tennis|Table tennis|Badminton is played with a shuttlecock rather than a ball.
+easy|sports|Which swimming stroke is named after an insect?|Butterfly|Backstroke|Breaststroke|Freestyle|The butterfly stroke is named after the insect.
+easy|sports|In football, which player may normally handle the ball inside their own penalty area?|Goalkeeper|Striker|Centre-back|Winger|The goalkeeper may handle the ball in their own penalty area, subject to the game's restrictions.
+easy|sports|What colour card normally sends a football player off?|Red|Yellow|Blue|Green|A red card means the player is sent off.
+easy|sports|Which sport features a scrum?|Rugby|Basketball|Volleyball|Baseball|A scrum is a method of restarting play in rugby.
+easy|sports|In which sport would you bowl to a batter at a wicket?|Cricket|Baseball|Hockey|Tennis|Cricket uses wickets and a bowler delivering to a batter.
+easy|sports|How many squares are on a standard chessboard?|64|32|81|100|A standard chessboard has eight rows and eight columns, giving 64 squares.
+easy|sports|Which chess piece normally moves in an L shape?|Knight|Bishop|Rook|Queen|A knight moves two squares in one direction and one perpendicular to it.
+easy|sports|Which chess piece can move any number of unobstructed squares diagonally?|Bishop|Knight|Pawn|King|A bishop moves along unobstructed diagonals.
+easy|sports|How many holes are in a standard full round of golf?|18|9|12|24|A standard full round consists of eighteen holes.
+easy|sports|In a standard volleyball game, how many players from one team are on court?|6|5|7|8|Indoor volleyball uses six players per team on the court.
+easy|history-culture|Which ancient civilization built the pyramids at Giza?|Ancient Egyptians|Ancient Romans|Aztecs|Vikings|The pyramids at Giza were built during ancient Egypt's Old Kingdom.
+easy|history-culture|In which country did the ancient Olympic Games originate?|Greece|Italy|Egypt|Persia|The ancient Olympic Games were held at Olympia in Greece.
+easy|history-culture|Which artist painted the Mona Lisa?|Leonardo da Vinci|Vincent van Gogh|Pablo Picasso|Claude Monet|The Mona Lisa was painted by Leonardo da Vinci.
+easy|history-culture|Which instrument has black and white keys and strings struck by hammers?|Piano|Violin|Flute|Trumpet|A piano's keys operate hammers that strike strings.
+easy|history-culture|What is the name of the Japanese art of paper folding?|Origami|Ikebana|Kabuki|Sumi-e|Origami is the art of paper folding.
+easy|history-culture|Which country is associated with the traditional dance called flamenco?|Spain|Norway|Japan|Canada|Flamenco developed in Spain, especially Andalusia.
+easy|history-culture|What is the main language of most of Brazil?|Portuguese|Spanish|French|Italian|Portuguese is Brazil's official and most widely spoken language.
+easy|history-culture|Which calendar month follows September?|October|August|November|December|October follows September in the Gregorian calendar.
+easy|technology|What does a keyboard primarily let a computer user enter?|Text and commands|Electrical power|Printed pages|Wireless signals|A keyboard is an input device for entering text and commands.
+easy|technology|Which device produces a paper copy of a digital document?|Printer|Scanner|Router|Microphone|A printer creates a physical paper copy of a digital document.
+easy|technology|What is a web browser used to access?|Web pages|Only printed books|Only radio signals|Only offline calculators|A web browser retrieves and displays web pages.
+easy|technology|Which of these is an input device for recording sound?|Microphone|Speaker|Monitor|Projector|A microphone converts sound into an input signal.
+easy|technology|Which common file extension usually indicates a PDF document?|.pdf|.mp3|.jpg|.exe|The .pdf extension stands for Portable Document Format.
+easy|technology|Which type of file is an MP3 usually used to store?|Audio|Spreadsheet formulas|Executable programs|Three-dimensional models|MP3 is a compressed digital audio format.
+easy|money|What do you receive when money is paid back after returning an item?|Refund|Loan|Dividend|Salary|A refund returns money previously paid for an item or service.
+easy|money|What is the amount of money borrowed called, before interest is added?|Principal|Dividend|Profit|Revenue|The principal is the original amount borrowed or invested.
+easy|money|If income is larger than expenses, what is the difference called in a simple budget?|Surplus|Deficit|Debt|Depreciation|A budget surplus means income exceeds expenses.
+easy|science|Which organ pumps blood around the human body?|Heart|Liver|Stomach|Kidney|The heart pumps blood through the circulatory system.
+easy|science|Which sense is mainly associated with the ears?|Hearing|Taste|Smell|Sight|The ears detect sound and support hearing.
+easy|science|Which of these animals is a mammal?|Dolphin|Shark|Crocodile|Octopus|Dolphins are mammals that breathe air and nurse their young.
+easy|science|What is the solid form of water called?|Ice|Steam|Mist|Vapour|Water in its solid state is ice.
+easy|science|Which part of a plant usually absorbs water from the soil?|Roots|Petals|Fruit|Seeds|Roots absorb water and dissolved minerals from the soil.
+easy|science|Which gas makes up most of Earth's atmosphere?|Nitrogen|Oxygen|Carbon dioxide|Hydrogen|Nitrogen makes up about 78 percent of Earth's atmosphere by volume.
+easy|science|Which planet is known for its prominent ring system?|Saturn|Mercury|Venus|Mars|Saturn is especially well known for its large, visible ring system.
+easy|science|What type of animal begins life as a tadpole?|Frog|Butterfly|Lizard|Eagle|Frogs commonly begin their aquatic larval stage as tadpoles.
+medium|sports|How many players per side start in rugby union?|15|11|13|16|Rugby union starts with fifteen players per side; rugby league normally has thirteen.
+medium|sports|What is the maximum break in standard snooker without a free ball?|147|140|155|180|Potting fifteen reds with fifteen blacks and then all colours yields 147 points.
+medium|sports|Which country won the men's FIFA World Cup in 2010?|Spain|Germany|Netherlands|Brazil|Spain defeated the Netherlands in the 2010 final.
+medium|history-culture|Who painted The Starry Night?|Vincent van Gogh|Claude Monet|Salvador Dalí|Henri Matisse|Vincent van Gogh painted The Starry Night in 1889.
+medium|history-culture|Which language family includes Spanish, French, and Italian?|Romance|Germanic|Slavic|Uralic|Spanish, French, and Italian developed from Latin and belong to the Romance branch.
+medium|technology|Which data structure follows last-in, first-out order?|Stack|Queue|Hash set|Priority list|A stack removes the most recently added item first.
+hard|sports|Which city hosted the 1968 Summer Olympics?|Mexico City|Munich|Tokyo|Montreal|Mexico City hosted the 1968 Summer Olympics.
+hard|history-culture|Which ancient writing system used wedge-shaped marks on clay?|Cuneiform|Hangul|Morse code|Ogham|Cuneiform used wedge-shaped impressions, often made in clay tablets.
+hard|technology|Which sorting algorithm has a worst-case running time of O(n log n) and uses a binary heap?|Heapsort|Bubble sort|Insertion sort|Selection sort|Heapsort maintains a heap and repeatedly removes its largest or smallest item.
+extreme|sports|Which athlete won the men's Olympic marathon in both 1960 and 1964?|Abebe Bikila|Emil Zátopek|Mamo Wolde|Waldemar Cierpinski|Ethiopia's Abebe Bikila won consecutive Olympic marathons in Rome and Tokyo.
+extreme|history-culture|Which architect designed the Villa Savoye with Pierre Jeanneret?|Le Corbusier|Walter Gropius|Frank Lloyd Wright|Alvar Aalto|Le Corbusier and Pierre Jeanneret designed Villa Savoye in Poissy, France.
+extreme|technology|Which theorem says a sufficiently expressive consistent formal system cannot prove every arithmetical truth?|Gödel's first incompleteness theorem|Bayes' theorem|The central limit theorem|The intermediate value theorem|Gödel's first incompleteness theorem establishes limits on completeness in sufficiently strong effective formal systems.

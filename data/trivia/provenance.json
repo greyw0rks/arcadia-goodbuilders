@@ -1,0 +1,24 @@
+{
+  "frozenOn": "2026-10-31",
+  "sources": {
+    "wikidata": "CC0 metadata; frozen SPARQL JSON results in sources/",
+    "ethereum": "Final EIP titles, identifiers and source URLs in sources/eips.json",
+    "editorial": "Authored concepts, calculations, bibliography and film credit overrides"
+  },
+  "files": {
+    "bitcoin-opcodes.txt": "c2678728e29a61c227b4fc49aa42524885d359c79565158a54fd4526454b989f",
+    "books.txt": "93ef3f5be7419c2e9476700bfeb1b00c13a4e006b45be509d8a879586dddd5cd",
+    "crypto-concepts.txt": "5774c2bfc78582114421235c463877e50e6de974abb610600442425789c01c69",
+    "crypto-scenarios.txt": "ce8b07b771b9028f3c072ac2edd8df8c82b0a43284178f7270035af0873dec0a",
+    "film-review.json": "f9aa28f85d9767ea14be6493927dfb5e1fb107f4249fae166e02dd5a2c667c78",
+    "general-facts.txt": "77f61878852172af03060810b43124e69e538296e0b14dbdf184d953c9137992",
+    "sources/country-capitals.json": "a5a1334727aec5e762adc53471453b99740ce60632d71bb1350280a727a7f976",
+    "sources/eips.json": "2545cac9ded84631d257dbd7140e1887e65f27a8db729246fa97c31b2b7e20f8",
+    "sources/elements.json": "c6dcb6d9c593a6c03d73d6b4866a1fa58cc642c2e8cec3589b3f496681a45e5b",
+    "sources/film-dates.json": "909e7138f33abf6bd7775b9a59fca4a49286ba11c354a9c2922d6d442fd41fb3",
+    "sources/film-facts.json": "2ce700594f441c13b7997016bd36afa4230e5a82b32d9cb695d64e972c269386",
+    "sources/film-list.json": "6a5cc50cf335cc35379257fd2548ce2331d69ec017c41a171dcee693bda6fe3e",
+    "sources/legacy-questions.json": "416833b5857b587e6fe5e1490447550815d08b3690973cfcfb51d67a2754e9dd"
+  },
+  "ethereumReferenceCommit": "c1ff0a992ef65c0321b098a890b6d1c44b3fdb93"
+}

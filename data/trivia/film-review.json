@@ -1,0 +1,32 @@
+{
+  "note": "Editorial overrides of frozen Wikidata facts. Screenplay credits exclude source authors and story-only credits. Excluded pairs have ambiguous music/source attribution. Raw source files are retained for comparison.",
+  "excludeFilms": ["Q131547207"],
+  "excludeProperties": {
+    "Q153723": ["P86"],
+    "Q1392744": ["P86"],
+    "Q18199330": ["P144"],
+    "Q76479": ["P144"]
+  },
+  "years": { "Q486239": "2004" },
+  "credits": {
+    "Q2875": { "P57": ["Victor Fleming"] },
+    "Q125076": { "P57": ["Danny Boyle"] },
+    "Q204191": { "P58": ["Frances Goodrich", "Albert Hackett", "Frank Capra"] },
+    "Q229808": { "P58": ["James Vanderbilt", "Alvin Sargent", "Steve Kloves"] },
+    "Q104814": { "P58": ["James Cameron"] },
+    "Q212775": { "P58": ["Bernardo Bertolucci", "Mark Peploe"] },
+    "Q19089": { "P58": ["Jeffrey Caine", "Bruce Feirstein"] },
+    "Q170564": { "P58": ["James Cameron", "William Wisher"] },
+    "Q151599": { "P58": ["Thea von Harbou"] },
+    "Q180098": { "P58": ["Karl Tunberg"] },
+    "Q182218": { "P58": ["Joss Whedon"] },
+    "Q1201853": { "P58": ["Christopher Yost", "Christopher Markus", "Stephen McFeely"] },
+    "Q46551": { "P58": ["Christopher Nolan", "Jonathan Nolan"] },
+    "Q172975": { "P58": ["William Monahan"] },
+    "Q102754": { "P86": ["Monty Norman"] },
+    "Q46717": { "P86": ["Klaus Badelt"] },
+    "Q18604504": { "P1040": ["John Gilroy"] },
+    "Q51416": { "P162": ["Walter F. Parkes", "Laurie MacDonald"] },
+    "Q185658": { "P162": ["Robert Watts"] }
+  }
+}

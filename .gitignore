@@ -1,0 +1,34 @@
+.next/
+node_modules/
+coverage/
+test-results/
+playwright-report/
+contracts/out/
+contracts/cache/
+.env*
+!.env.example
+.vercel/
+.data/
+.impeccable/review/
+.impeccable/live/
+*.tsbuildinfo
+.vercel
+.atlas/
+.agents/
+.impeccable/
+AGENTS.md
+ATLAS.md
+skills-lock.json
+__pycache__/
+*.pyc
+*.log
+*.db
+*.db-*
+*.sqlite*
+# Local application draft can contain applicant/KYC information.
+docs/applications/
+# Operational screenshots, browser traces and private reports stay local.
+docs/evidence/*
+!docs/evidence/escrow-funded.json
+docs/question-bank.md
+docs/question-bank.csv

@@ -1,0 +1,25 @@
+OP_DUP|duplicates the top stack item
+OP_HASH160|applies SHA-256 followed by RIPEMD-160 to the top stack item
+OP_CHECKSIG|checks a transaction signature against a public key and leaves a boolean result
+OP_EQUAL|compares the top two stack items for byte equality and pushes the result
+OP_EQUALVERIFY|checks equality of the top two items and fails the script if they differ
+OP_VERIFY|removes the top item and fails the script if that item is false
+OP_DROP|removes the top stack item
+OP_SWAP|exchanges the top two stack items
+OP_OVER|copies the second stack item to the top
+OP_ROT|moves the third stack item to the top
+OP_2DUP|duplicates the top pair of stack items
+OP_2DROP|removes the top pair of stack items
+OP_NIP|removes the second stack item while keeping the top item
+OP_TUCK|copies the top item and inserts the copy below the second item
+OP_IF|begins a conditional branch executed when the consumed condition is true
+OP_NOTIF|begins a conditional branch executed when the consumed condition is false
+OP_ELSE|switches to the alternative branch of a script conditional
+OP_ENDIF|closes a script conditional branch
+OP_CHECKLOCKTIMEVERIFY|enforces an absolute transaction lock-time constraint without popping the constraint value
+OP_CHECKSEQUENCEVERIFY|enforces a relative lock-time constraint based on an input's sequence field
+OP_CHECKMULTISIG|checks a configured set of signatures against a set of public keys
+OP_SHA256|applies a single SHA-256 hash to the top stack item
+OP_RIPEMD160|applies a single RIPEMD-160 hash to the top stack item
+OP_SIZE|pushes the byte length of the top stack item without removing that item
+OP_RETURN|immediately makes the executing script fail

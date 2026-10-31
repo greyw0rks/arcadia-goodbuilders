@@ -1,0 +1,1080 @@
+[
+  {
+    "eip": "2",
+    "title": "Homestead Hard-fork Changes",
+    "status": "Final",
+    "type": "Standards Track",
+    "category": "Core",
+    "source": "https://eips.ethereum.org/EIPS/eip-2"
+  },
+  {
+    "eip": "4",
+    "title": "EIP Classification",
+    "status": "Final",
+    "type": "Meta",
+    "source": "https://eips.ethereum.org/EIPS/eip-4"
+  },
+  {
+    "eip": "5",
+    "title": "Gas Usage for `RETURN` and `CALL*`",
+    "status": "Final",
+    "type": "Standards Track",
+    "category": "Core",
+    "source": "https://eips.ethereum.org/EIPS/eip-5"
+  },
+  {
+    "eip": "6",
+    "title": "Renaming SUICIDE opcode",
+    "status": "Final",
+    "type": "Standards Track",
+    "category": "Interface",
+    "source": "https://eips.ethereum.org/EIPS/eip-6"
+  },
+  {
+    "eip": "7",
+    "title": "DELEGATECALL",
+    "status": "Final",
+    "type": "Standards Track",
+    "category": "Core",
+    "source": "https://eips.ethereum.org/EIPS/eip-7"
+  },
+  {
+    "eip": "8",
+    "title": "devp2p Forward Compatibility Requirements for Homestead",
+    "status": "Final",
+    "type": "Standards Track",
+    "category": "Networking",
+    "source": "https://eips.ethereum.org/EIPS/eip-8"
+  },
+  {
+    "eip": "100",
+    "title": "Change difficulty adjustment to target mean block time including uncles",
+    "type": "Standards Track",
+    "category": "Core",
+    "status": "Final",
+    "source": "https://eips.ethereum.org/EIPS/eip-100"
+  },
+  {
+    "eip": "140",
+    "title": "REVERT instruction",
+    "type": "Standards Track",
+    "category": "Core",
+    "status": "Final",
+    "source": "https://eips.ethereum.org/EIPS/eip-140"
+  },
+  {
+    "eip": "141",
+    "title": "Designated invalid EVM instruction",
+    "type": "Standards Track",
+    "category": "Core",
+    "status": "Final",
+    "source": "https://eips.ethereum.org/EIPS/eip-141"
+  },
+  {
+    "eip": "145",
+    "title": "Bitwise shifting instructions in EVM",
+    "status": "Final",
+    "type": "Standards Track",
+    "category": "Core",
+    "source": "https://eips.ethereum.org/EIPS/eip-145"
+  },
+  {
+    "eip": "150",
+    "title": "Gas cost changes for IO-heavy operations",
+    "type": "Standards Track",
+    "category": "Core",
+    "status": "Final",
+    "source": "https://eips.ethereum.org/EIPS/eip-150"
+  },
+  {
+    "eip": "152",
+    "title": "Add BLAKE2 compression function `F` precompile",
+    "status": "Final",
+    "type": "Standards Track",
+    "category": "Core",
+    "source": "https://eips.ethereum.org/EIPS/eip-152"
+  },
+  {
+    "eip": "155",
+    "title": "Simple replay attack protection",
+    "type": "Standards Track",
+    "category": "Core",
+    "status": "Final",
+    "source": "https://eips.ethereum.org/EIPS/eip-155"
+  },
+  {
+    "eip": "158",
+    "title": "State clearing",
+    "type": "Standards Track",
+    "category": "Core",
+    "status": "Final",
+    "source": "https://eips.ethereum.org/EIPS/eip-158"
+  },
+  {
+    "eip": "160",
+    "title": "EXP cost increase",
+    "type": "Standards Track",
+    "category": "Core",
+    "status": "Final",
+    "source": "https://eips.ethereum.org/EIPS/eip-160"
+  },
+  {
+    "eip": "161",
+    "title": "State trie clearing (invariant-preserving alternative)",
+    "type": "Standards Track",
+    "category": "Core",
+    "status": "Final",
+    "source": "https://eips.ethereum.org/EIPS/eip-161"
+  },
+  {
+    "eip": "170",
+    "title": "Contract code size limit",
+    "type": "Standards Track",
+    "category": "Core",
+    "status": "Final",
+    "source": "https://eips.ethereum.org/EIPS/eip-170"
+  },
+  {
+    "eip": "196",
+    "title": "Precompiled contracts for addition and scalar multiplication on the elliptic curve alt_bn128",
+    "type": "Standards Track",
+    "category": "Core",
+    "status": "Final",
+    "source": "https://eips.ethereum.org/EIPS/eip-196"
+  },
+  {
+    "eip": "197",
+    "title": "Precompiled contracts for optimal ate pairing check on the elliptic curve alt_bn128",
+    "type": "Standards Track",
+    "category": "Core",
+    "status": "Final",
+    "source": "https://eips.ethereum.org/EIPS/eip-197"
+  },
+  {
+    "eip": "198",
+    "title": "Big integer modular exponentiation",
+    "status": "Final",
+    "type": "Standards Track",
+    "category": "Core",
+    "source": "https://eips.ethereum.org/EIPS/eip-198"
+  },
+  {
+    "eip": "211",
+    "title": "\"New opcodes: RETURNDATASIZE and RETURNDATACOPY\"",
+    "type": "Standards Track",
+    "category": "Core",
+    "status": "Final",
+    "source": "https://eips.ethereum.org/EIPS/eip-211"
+  },
+  {
+    "eip": "214",
+    "title": "New opcode STATICCALL",
+    "type": "Standards Track",
+    "category": "Core",
+    "status": "Final",
+    "source": "https://eips.ethereum.org/EIPS/eip-214"
+  },
+  {
+    "eip": "225",
+    "title": "Clique proof-of-authority consensus protocol",
+    "status": "Final",
+    "type": "Standards Track",
+    "category": "Core",
+    "source": "https://eips.ethereum.org/EIPS/eip-225"
+  },
+  {
+    "eip": "234",
+    "title": "Add `blockHash` to JSON-RPC filter options.",
+    "type": "Standards Track",
+    "category": "Interface",
+    "status": "Final",
+    "source": "https://eips.ethereum.org/EIPS/eip-234"
+  },
+  {
+    "eip": "606",
+    "title": "\"Hardfork Meta: Homestead\"",
+    "type": "Meta",
+    "status": "Final",
+    "source": "https://eips.ethereum.org/EIPS/eip-606"
+  },
+  {
+    "eip": "607",
+    "title": "\"Hardfork Meta: Spurious Dragon\"",
+    "type": "Meta",
+    "status": "Final",
+    "source": "https://eips.ethereum.org/EIPS/eip-607"
+  },
+  {
+    "eip": "608",
+    "title": "\"Hardfork Meta: Tangerine Whistle\"",
+    "type": "Meta",
+    "status": "Final",
+    "source": "https://eips.ethereum.org/EIPS/eip-608"
+  },
+  {
+    "eip": "609",
+    "title": "\"Hardfork Meta: Byzantium\"",
+    "type": "Meta",
+    "status": "Final",
+    "source": "https://eips.ethereum.org/EIPS/eip-609"
+  },
+  {
+    "eip": "627",
+    "title": "Whisper Specification",
+    "type": "Standards Track",
+    "category": "Networking",
+    "status": "Final",
+    "source": "https://eips.ethereum.org/EIPS/eip-627"
+  },
+  {
+    "eip": "649",
+    "title": "Metropolis Difficulty Bomb Delay and Block Reward Reduction",
+    "type": "Standards Track",
+    "category": "Core",
+    "status": "Final",
+    "source": "https://eips.ethereum.org/EIPS/eip-649"
+  },
+  {
+    "eip": "658",
+    "title": "Embedding transaction status code in receipts",
+    "type": "Standards Track",
+    "category": "Core",
+    "status": "Final",
+    "source": "https://eips.ethereum.org/EIPS/eip-658"
+  },
+  {
+    "eip": "684",
+    "title": "Revert creation in case of collision",
+    "status": "Final",
+    "type": "Standards Track",
+    "category": "Core",
+    "source": "https://eips.ethereum.org/EIPS/eip-684"
+  },
+  {
+    "eip": "695",
+    "title": "Create `eth_chainId` method for JSON-RPC",
+    "type": "Standards Track",
+    "category": "Interface",
+    "status": "Final",
+    "source": "https://eips.ethereum.org/EIPS/eip-695"
+  },
+  {
+    "eip": "706",
+    "title": "DEVp2p snappy compression",
+    "type": "Standards Track",
+    "category": "Networking",
+    "status": "Final",
+    "source": "https://eips.ethereum.org/EIPS/eip-706"
+  },
+  {
+    "eip": "712",
+    "title": "Typed structured data hashing and signing",
+    "status": "Final",
+    "type": "Standards Track",
+    "category": "Interface",
+    "source": "https://eips.ethereum.org/EIPS/eip-712"
+  },
+  {
+    "eip": "747",
+    "title": "wallet_watchAsset RPC Method",
+    "status": "Final",
+    "type": "Standards Track",
+    "category": "Interface",
+    "source": "https://eips.ethereum.org/EIPS/eip-747"
+  },
+  {
+    "eip": "778",
+    "title": "Ethereum Node Records (ENR)",
+    "type": "Standards Track",
+    "category": "Networking",
+    "status": "Final",
+    "source": "https://eips.ethereum.org/EIPS/eip-778"
+  },
+  {
+    "eip": "779",
+    "title": "\"Hardfork Meta: DAO Fork\"",
+    "type": "Meta",
+    "status": "Final",
+    "source": "https://eips.ethereum.org/EIPS/eip-779"
+  },
+  {
+    "eip": "868",
+    "title": "Node Discovery v4 ENR Extension",
+    "type": "Standards Track",
+    "category": "Networking",
+    "status": "Final",
+    "source": "https://eips.ethereum.org/EIPS/eip-868"
+  },
+  {
+    "eip": "1013",
+    "title": "\"Hardfork Meta: Constantinople\"",
+    "type": "Meta",
+    "status": "Final",
+    "source": "https://eips.ethereum.org/EIPS/eip-1013"
+  },
+  {
+    "eip": "1014",
+    "title": "Skinny CREATE2",
+    "category": "Core",
+    "type": "Standards Track",
+    "status": "Final",
+    "source": "https://eips.ethereum.org/EIPS/eip-1014"
+  },
+  {
+    "eip": "1052",
+    "title": "EXTCODEHASH opcode",
+    "status": "Final",
+    "type": "Standards Track",
+    "category": "Core",
+    "source": "https://eips.ethereum.org/EIPS/eip-1052"
+  },
+  {
+    "eip": "1108",
+    "title": "Reduce alt_bn128 precompile gas costs",
+    "status": "Final",
+    "type": "Standards Track",
+    "category": "Core",
+    "source": "https://eips.ethereum.org/EIPS/eip-1108"
+  },
+  {
+    "eip": "1153",
+    "title": "Transient storage opcodes",
+    "status": "Final",
+    "type": "Standards Track",
+    "category": "Core",
+    "source": "https://eips.ethereum.org/EIPS/eip-1153"
+  },
+  {
+    "eip": "1193",
+    "title": "Ethereum Provider JavaScript API",
+    "status": "Final",
+    "type": "Standards Track",
+    "category": "Interface",
+    "source": "https://eips.ethereum.org/EIPS/eip-1193"
+  },
+  {
+    "eip": "1234",
+    "title": "Constantinople Difficulty Bomb Delay and Block Reward Adjustment",
+    "type": "Standards Track",
+    "category": "Core",
+    "status": "Final",
+    "source": "https://eips.ethereum.org/EIPS/eip-1234"
+  },
+  {
+    "eip": "1283",
+    "title": "Net gas metering for SSTORE without dirty maps",
+    "status": "Final",
+    "type": "Standards Track",
+    "category": "Core",
+    "source": "https://eips.ethereum.org/EIPS/eip-1283"
+  },
+  {
+    "eip": "1344",
+    "title": "ChainID opcode",
+    "category": "Core",
+    "type": "Standards Track",
+    "status": "Final",
+    "source": "https://eips.ethereum.org/EIPS/eip-1344"
+  },
+  {
+    "eip": "1559",
+    "title": "Fee market change for ETH 1.0 chain",
+    "status": "Final",
+    "type": "Standards Track",
+    "category": "Core",
+    "source": "https://eips.ethereum.org/EIPS/eip-1559"
+  },
+  {
+    "eip": "1679",
+    "title": "\"Hardfork Meta: Istanbul\"",
+    "type": "Meta",
+    "status": "Final",
+    "source": "https://eips.ethereum.org/EIPS/eip-1679"
+  },
+  {
+    "eip": "1716",
+    "title": "\"Hardfork Meta: Petersburg\"",
+    "type": "Meta",
+    "status": "Final",
+    "source": "https://eips.ethereum.org/EIPS/eip-1716"
+  },
+  {
+    "eip": "1884",
+    "title": "Repricing for trie-size-dependent opcodes",
+    "type": "Standards Track",
+    "category": "Core",
+    "status": "Final",
+    "source": "https://eips.ethereum.org/EIPS/eip-1884"
+  },
+  {
+    "eip": "1898",
+    "title": "Add `blockHash` to defaultBlock methods",
+    "status": "Final",
+    "type": "Standards Track",
+    "category": "Interface",
+    "source": "https://eips.ethereum.org/EIPS/eip-1898"
+  },
+  {
+    "eip": "2028",
+    "title": "Transaction data gas cost reduction",
+    "status": "Final",
+    "type": "Standards Track",
+    "category": "Core",
+    "source": "https://eips.ethereum.org/EIPS/eip-2028"
+  },
+  {
+    "eip": "2124",
+    "title": "Fork identifier for chain compatibility checks",
+    "status": "Final",
+    "type": "Standards Track",
+    "category": "Networking",
+    "source": "https://eips.ethereum.org/EIPS/eip-2124"
+  },
+  {
+    "eip": "2159",
+    "title": "Common Prometheus Metrics Names for Clients",
+    "status": "Final",
+    "type": "Standards Track",
+    "category": "Interface",
+    "source": "https://eips.ethereum.org/EIPS/eip-2159"
+  },
+  {
+    "eip": "2200",
+    "title": "Structured Definitions for Net Gas Metering",
+    "status": "Final",
+    "type": "Standards Track",
+    "category": "Core",
+    "source": "https://eips.ethereum.org/EIPS/eip-2200"
+  },
+  {
+    "eip": "2228",
+    "title": "Canonicalize the name of network ID 1 and chain ID 1",
+    "status": "Final",
+    "type": "Informational",
+    "source": "https://eips.ethereum.org/EIPS/eip-2228"
+  },
+  {
+    "eip": "2255",
+    "title": "Wallet Permissions System",
+    "status": "Final",
+    "type": "Standards Track",
+    "category": "Interface",
+    "source": "https://eips.ethereum.org/EIPS/eip-2255"
+  },
+  {
+    "eip": "2364",
+    "title": "\"eth/64: forkid-extended protocol handshake\"",
+    "status": "Final",
+    "type": "Standards Track",
+    "category": "Networking",
+    "source": "https://eips.ethereum.org/EIPS/eip-2364"
+  },
+  {
+    "eip": "2384",
+    "title": "Muir Glacier Difficulty Bomb Delay",
+    "type": "Standards Track",
+    "category": "Core",
+    "status": "Final",
+    "source": "https://eips.ethereum.org/EIPS/eip-2384"
+  },
+  {
+    "eip": "2387",
+    "title": "\"Hardfork Meta: Muir Glacier\"",
+    "type": "Meta",
+    "status": "Final",
+    "source": "https://eips.ethereum.org/EIPS/eip-2387"
+  },
+  {
+    "eip": "2464",
+    "title": "\"eth/65: transaction announcements and retrievals\"",
+    "status": "Final",
+    "type": "Standards Track",
+    "category": "Networking",
+    "source": "https://eips.ethereum.org/EIPS/eip-2464"
+  },
+  {
+    "eip": "2481",
+    "title": "eth/66 request identifier",
+    "status": "Final",
+    "type": "Standards Track",
+    "category": "Networking",
+    "source": "https://eips.ethereum.org/EIPS/eip-2481"
+  },
+  {
+    "eip": "2537",
+    "title": "Precompile for BLS12-381 curve operations",
+    "status": "Final",
+    "type": "Standards Track",
+    "category": "Core",
+    "source": "https://eips.ethereum.org/EIPS/eip-2537"
+  },
+  {
+    "eip": "2565",
+    "title": "ModExp Gas Cost",
+    "status": "Final",
+    "type": "Standards Track",
+    "category": "Core",
+    "source": "https://eips.ethereum.org/EIPS/eip-2565"
+  },
+  {
+    "eip": "2681",
+    "title": "Limit account nonce to 2^64-1",
+    "status": "Final",
+    "type": "Standards Track",
+    "category": "Core",
+    "source": "https://eips.ethereum.org/EIPS/eip-2681"
+  },
+  {
+    "eip": "2696",
+    "title": "JavaScript `request` method RPC transport",
+    "status": "Final",
+    "type": "Standards Track",
+    "category": "Interface",
+    "source": "https://eips.ethereum.org/EIPS/eip-2696"
+  },
+  {
+    "eip": "2700",
+    "title": "JavaScript Provider Event Emitter",
+    "status": "Final",
+    "type": "Standards Track",
+    "category": "Interface",
+    "source": "https://eips.ethereum.org/EIPS/eip-2700"
+  },
+  {
+    "eip": "2718",
+    "title": "Typed Transaction Envelope",
+    "status": "Final",
+    "type": "Standards Track",
+    "category": "Core",
+    "source": "https://eips.ethereum.org/EIPS/eip-2718"
+  },
+  {
+    "eip": "2929",
+    "title": "Gas cost increases for state access opcodes",
+    "status": "Final",
+    "type": "Standards Track",
+    "category": "Core",
+    "source": "https://eips.ethereum.org/EIPS/eip-2929"
+  },
+  {
+    "eip": "2930",
+    "title": "Optional access lists",
+    "status": "Final",
+    "type": "Standards Track",
+    "category": "Core",
+    "source": "https://eips.ethereum.org/EIPS/eip-2930"
+  },
+  {
+    "eip": "2935",
+    "title": "Serve historical block hashes from state",
+    "status": "Final",
+    "type": "Standards Track",
+    "category": "Core",
+    "source": "https://eips.ethereum.org/EIPS/eip-2935"
+  },
+  {
+    "eip": "2976",
+    "title": "Typed Transactions over Gossip",
+    "status": "Final",
+    "type": "Standards Track",
+    "category": "Networking",
+    "source": "https://eips.ethereum.org/EIPS/eip-2976"
+  },
+  {
+    "eip": "2982",
+    "title": "Serenity Phase 0",
+    "status": "Final",
+    "type": "Informational",
+    "source": "https://eips.ethereum.org/EIPS/eip-2982"
+  },
+  {
+    "eip": "3198",
+    "title": "BASEFEE opcode",
+    "status": "Final",
+    "type": "Standards Track",
+    "category": "Core",
+    "source": "https://eips.ethereum.org/EIPS/eip-3198"
+  },
+  {
+    "eip": "3529",
+    "title": "Reduction in refunds",
+    "status": "Final",
+    "type": "Standards Track",
+    "category": "Core",
+    "source": "https://eips.ethereum.org/EIPS/eip-3529"
+  },
+  {
+    "eip": "3541",
+    "title": "Reject new contract code starting with the 0xEF byte",
+    "status": "Final",
+    "type": "Standards Track",
+    "category": "Core",
+    "source": "https://eips.ethereum.org/EIPS/eip-3541"
+  },
+  {
+    "eip": "3554",
+    "title": "Difficulty Bomb Delay to December 2021",
+    "status": "Final",
+    "type": "Standards Track",
+    "category": "Core",
+    "source": "https://eips.ethereum.org/EIPS/eip-3554"
+  },
+  {
+    "eip": "3607",
+    "title": "Reject transactions from senders with deployed code",
+    "status": "Final",
+    "type": "Standards Track",
+    "category": "Core",
+    "source": "https://eips.ethereum.org/EIPS/eip-3607"
+  },
+  {
+    "eip": "3651",
+    "title": "Warm COINBASE",
+    "status": "Final",
+    "type": "Standards Track",
+    "category": "Core",
+    "source": "https://eips.ethereum.org/EIPS/eip-3651"
+  },
+  {
+    "eip": "3675",
+    "title": "Upgrade consensus to Proof-of-Stake",
+    "status": "Final",
+    "type": "Standards Track",
+    "category": "Core",
+    "source": "https://eips.ethereum.org/EIPS/eip-3675"
+  },
+  {
+    "eip": "3855",
+    "title": "PUSH0 instruction",
+    "status": "Final",
+    "type": "Standards Track",
+    "category": "Core",
+    "source": "https://eips.ethereum.org/EIPS/eip-3855"
+  },
+  {
+    "eip": "3860",
+    "title": "Limit and meter initcode",
+    "status": "Final",
+    "type": "Standards Track",
+    "category": "Core",
+    "source": "https://eips.ethereum.org/EIPS/eip-3860"
+  },
+  {
+    "eip": "4345",
+    "title": "Difficulty Bomb Delay to June 2022",
+    "status": "Final",
+    "type": "Standards Track",
+    "category": "Core",
+    "source": "https://eips.ethereum.org/EIPS/eip-4345"
+  },
+  {
+    "eip": "4399",
+    "title": "Supplant DIFFICULTY opcode with PREVRANDAO",
+    "status": "Final",
+    "type": "Standards Track",
+    "category": "Core",
+    "source": "https://eips.ethereum.org/EIPS/eip-4399"
+  },
+  {
+    "eip": "4736",
+    "title": "Consensus Layer Withdrawal Protection",
+    "status": "Final",
+    "type": "Standards Track",
+    "category": "Interface",
+    "source": "https://eips.ethereum.org/EIPS/eip-4736"
+  },
+  {
+    "eip": "4788",
+    "title": "Beacon block root in the EVM",
+    "status": "Final",
+    "type": "Standards Track",
+    "category": "Core",
+    "source": "https://eips.ethereum.org/EIPS/eip-4788"
+  },
+  {
+    "eip": "4844",
+    "title": "Shard Blob Transactions",
+    "status": "Final",
+    "type": "Standards Track",
+    "category": "Core",
+    "source": "https://eips.ethereum.org/EIPS/eip-4844"
+  },
+  {
+    "eip": "4881",
+    "title": "Deposit Contract Snapshot Interface",
+    "status": "Final",
+    "type": "Standards Track",
+    "category": "Interface",
+    "source": "https://eips.ethereum.org/EIPS/eip-4881"
+  },
+  {
+    "eip": "4895",
+    "title": "Beacon chain push withdrawals as operations",
+    "status": "Final",
+    "type": "Standards Track",
+    "category": "Core",
+    "source": "https://eips.ethereum.org/EIPS/eip-4895"
+  },
+  {
+    "eip": "4938",
+    "title": "\"eth/67 - Removal of GetNodeData\"",
+    "status": "Final",
+    "type": "Standards Track",
+    "category": "Networking",
+    "source": "https://eips.ethereum.org/EIPS/eip-4938"
+  },
+  {
+    "eip": "5133",
+    "title": "Delaying Difficulty Bomb to mid-September 2022",
+    "status": "Final",
+    "type": "Standards Track",
+    "category": "Core",
+    "source": "https://eips.ethereum.org/EIPS/eip-5133"
+  },
+  {
+    "eip": "5656",
+    "title": "MCOPY - Memory copying instruction",
+    "status": "Final",
+    "type": "Standards Track",
+    "category": "Core",
+    "source": "https://eips.ethereum.org/EIPS/eip-5656"
+  },
+  {
+    "eip": "5749",
+    "title": "The 'window.evmproviders' object",
+    "status": "Final",
+    "type": "Standards Track",
+    "category": "Interface",
+    "source": "https://eips.ethereum.org/EIPS/eip-5749"
+  },
+  {
+    "eip": "5757",
+    "title": "Process for Approving External Resources",
+    "status": "Final",
+    "type": "Meta",
+    "source": "https://eips.ethereum.org/EIPS/eip-5757"
+  },
+  {
+    "eip": "5792",
+    "title": "Wallet Call API",
+    "status": "Final",
+    "type": "Standards Track",
+    "category": "Interface",
+    "source": "https://eips.ethereum.org/EIPS/eip-5792"
+  },
+  {
+    "eip": "5793",
+    "title": "eth/68 - Add tx type to tx announcement",
+    "status": "Final",
+    "type": "Standards Track",
+    "category": "Networking",
+    "source": "https://eips.ethereum.org/EIPS/eip-5793"
+  },
+  {
+    "eip": "6049",
+    "title": "Deprecate SELFDESTRUCT",
+    "status": "Final",
+    "type": "Meta",
+    "source": "https://eips.ethereum.org/EIPS/eip-6049"
+  },
+  {
+    "eip": "6110",
+    "title": "Supply validator deposits on chain",
+    "status": "Final",
+    "type": "Standards Track",
+    "category": "Core",
+    "source": "https://eips.ethereum.org/EIPS/eip-6110"
+  },
+  {
+    "eip": "6122",
+    "title": "Forkid checks based on timestamps",
+    "status": "Final",
+    "type": "Standards Track",
+    "category": "Networking",
+    "source": "https://eips.ethereum.org/EIPS/eip-6122"
+  },
+  {
+    "eip": "6780",
+    "title": "SELFDESTRUCT only in same transaction",
+    "status": "Final",
+    "type": "Standards Track",
+    "category": "Core",
+    "source": "https://eips.ethereum.org/EIPS/eip-6780"
+  },
+  {
+    "eip": "6916",
+    "title": "Automatically Reset Testnet",
+    "status": "Final",
+    "type": "Standards Track",
+    "category": "Core",
+    "source": "https://eips.ethereum.org/EIPS/eip-6916"
+  },
+  {
+    "eip": "6953",
+    "title": "Network Upgrade Activation Triggers",
+    "status": "Final",
+    "type": "Informational",
+    "source": "https://eips.ethereum.org/EIPS/eip-6953"
+  },
+  {
+    "eip": "6963",
+    "title": "Multi Injected Provider Discovery",
+    "status": "Final",
+    "type": "Standards Track",
+    "category": "Interface",
+    "source": "https://eips.ethereum.org/EIPS/eip-6963"
+  },
+  {
+    "eip": "7002",
+    "title": "Execution layer triggerable withdrawals",
+    "status": "Final",
+    "type": "Standards Track",
+    "category": "Core",
+    "source": "https://eips.ethereum.org/EIPS/eip-7002"
+  },
+  {
+    "eip": "7044",
+    "title": "Perpetually Valid Signed Voluntary Exits",
+    "status": "Final",
+    "type": "Standards Track",
+    "category": "Core",
+    "source": "https://eips.ethereum.org/EIPS/eip-7044"
+  },
+  {
+    "eip": "7045",
+    "title": "Increase max attestation inclusion slot",
+    "status": "Final",
+    "type": "Standards Track",
+    "category": "Core",
+    "source": "https://eips.ethereum.org/EIPS/eip-7045"
+  },
+  {
+    "eip": "7251",
+    "title": "Increase the MAX_EFFECTIVE_BALANCE",
+    "status": "Final",
+    "type": "Standards Track",
+    "category": "Core",
+    "source": "https://eips.ethereum.org/EIPS/eip-7251"
+  },
+  {
+    "eip": "7329",
+    "title": "ERC/EIP Repository split",
+    "status": "Final",
+    "type": "Meta",
+    "source": "https://eips.ethereum.org/EIPS/eip-7329"
+  },
+  {
+    "eip": "7514",
+    "title": "Add Max Epoch Churn Limit",
+    "status": "Final",
+    "type": "Standards Track",
+    "category": "Core",
+    "source": "https://eips.ethereum.org/EIPS/eip-7514"
+  },
+  {
+    "eip": "7516",
+    "title": "BLOBBASEFEE instruction",
+    "status": "Final",
+    "type": "Standards Track",
+    "category": "Core",
+    "source": "https://eips.ethereum.org/EIPS/eip-7516"
+  },
+  {
+    "eip": "7549",
+    "title": "Move committee index outside Attestation",
+    "status": "Final",
+    "type": "Standards Track",
+    "category": "Core",
+    "source": "https://eips.ethereum.org/EIPS/eip-7549"
+  },
+  {
+    "eip": "7568",
+    "title": "Hardfork Meta Backfill - Berlin to Shapella",
+    "status": "Final",
+    "type": "Meta",
+    "source": "https://eips.ethereum.org/EIPS/eip-7568"
+  },
+  {
+    "eip": "7569",
+    "title": "Hardfork Meta - Dencun",
+    "status": "Final",
+    "type": "Meta",
+    "source": "https://eips.ethereum.org/EIPS/eip-7569"
+  },
+  {
+    "eip": "7587",
+    "title": "Reserve Precompile Address Range for RIPs",
+    "status": "Final",
+    "type": "Meta",
+    "source": "https://eips.ethereum.org/EIPS/eip-7587"
+  },
+  {
+    "eip": "7594",
+    "title": "PeerDAS - Peer Data Availability Sampling",
+    "status": "Final",
+    "type": "Standards Track",
+    "category": "Core",
+    "source": "https://eips.ethereum.org/EIPS/eip-7594"
+  },
+  {
+    "eip": "7600",
+    "title": "Hardfork Meta - Pectra",
+    "status": "Final",
+    "type": "Meta",
+    "source": "https://eips.ethereum.org/EIPS/eip-7600"
+  },
+  {
+    "eip": "7607",
+    "title": "Hardfork Meta - Fusaka",
+    "status": "Final",
+    "type": "Meta",
+    "source": "https://eips.ethereum.org/EIPS/eip-7607"
+  },
+  {
+    "eip": "7623",
+    "title": "Increase calldata cost",
+    "status": "Final",
+    "type": "Standards Track",
+    "category": "Core",
+    "source": "https://eips.ethereum.org/EIPS/eip-7623"
+  },
+  {
+    "eip": "7642",
+    "title": "eth/69 - history expiry and simpler receipts",
+    "status": "Final",
+    "type": "Standards Track",
+    "category": "Networking",
+    "source": "https://eips.ethereum.org/EIPS/eip-7642"
+  },
+  {
+    "eip": "7685",
+    "title": "General purpose execution layer requests",
+    "status": "Final",
+    "type": "Standards Track",
+    "category": "Core",
+    "source": "https://eips.ethereum.org/EIPS/eip-7685"
+  },
+  {
+    "eip": "7691",
+    "title": "Blob throughput increase",
+    "status": "Final",
+    "type": "Standards Track",
+    "category": "Core",
+    "source": "https://eips.ethereum.org/EIPS/eip-7691"
+  },
+  {
+    "eip": "7702",
+    "title": "Set Code for EOAs",
+    "status": "Final",
+    "type": "Standards Track",
+    "category": "Core",
+    "source": "https://eips.ethereum.org/EIPS/eip-7702"
+  },
+  {
+    "eip": "7823",
+    "title": "Set upper bounds for MODEXP",
+    "status": "Final",
+    "type": "Standards Track",
+    "category": "Core",
+    "source": "https://eips.ethereum.org/EIPS/eip-7823"
+  },
+  {
+    "eip": "7825",
+    "title": "Transaction Gas Limit Cap",
+    "status": "Final",
+    "type": "Standards Track",
+    "category": "Core",
+    "source": "https://eips.ethereum.org/EIPS/eip-7825"
+  },
+  {
+    "eip": "7840",
+    "title": "Add blob schedule to EL config files",
+    "status": "Final",
+    "type": "Informational",
+    "source": "https://eips.ethereum.org/EIPS/eip-7840"
+  },
+  {
+    "eip": "7883",
+    "title": "ModExp Gas Cost Increase",
+    "status": "Final",
+    "type": "Standards Track",
+    "category": "Core",
+    "source": "https://eips.ethereum.org/EIPS/eip-7883"
+  },
+  {
+    "eip": "7892",
+    "title": "Blob Parameter Only Hardforks",
+    "status": "Final",
+    "type": "Informational",
+    "source": "https://eips.ethereum.org/EIPS/eip-7892"
+  },
+  {
+    "eip": "7910",
+    "title": "eth_config JSON-RPC Method",
+    "status": "Final",
+    "type": "Standards Track",
+    "category": "Interface",
+    "source": "https://eips.ethereum.org/EIPS/eip-7910"
+  },
+  {
+    "eip": "7917",
+    "title": "Deterministic proposer lookahead",
+    "status": "Final",
+    "type": "Standards Track",
+    "category": "Core",
+    "source": "https://eips.ethereum.org/EIPS/eip-7917"
+  },
+  {
+    "eip": "7918",
+    "title": "Blob base fee bounded by execution cost",
+    "status": "Final",
+    "type": "Standards Track",
+    "category": "Core",
+    "source": "https://eips.ethereum.org/EIPS/eip-7918"
+  },
+  {
+    "eip": "7934",
+    "title": "RLP Execution Block Size Limit",
+    "status": "Final",
+    "type": "Standards Track",
+    "category": "Core",
+    "source": "https://eips.ethereum.org/EIPS/eip-7934"
+  },
+  {
+    "eip": "7935",
+    "title": "Set default gas limit to 60M",
+    "status": "Final",
+    "type": "Informational",
+    "source": "https://eips.ethereum.org/EIPS/eip-7935"
+  },
+  {
+    "eip": "7939",
+    "title": "Count leading zeros (CLZ) opcode",
+    "status": "Final",
+    "type": "Standards Track",
+    "category": "Core",
+    "source": "https://eips.ethereum.org/EIPS/eip-7939"
+  },
+  {
+    "eip": "7951",
+    "title": "Precompile for secp256r1 Curve Support",
+    "status": "Final",
+    "type": "Standards Track",
+    "category": "Core",
+    "source": "https://eips.ethereum.org/EIPS/eip-7951"
+  },
+  {
+    "eip": "8134",
+    "title": "Hardfork Meta - BPO1",
+    "status": "Final",
+    "type": "Meta",
+    "source": "https://eips.ethereum.org/EIPS/eip-8134"
+  },
+  {
+    "eip": "8135",
+    "title": "Hardfork Meta - BPO2",
+    "status": "Final",
+    "type": "Meta",
+    "source": "https://eips.ethereum.org/EIPS/eip-8135"
+  }
+]

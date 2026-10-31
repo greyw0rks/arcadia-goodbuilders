@@ -1,0 +1,120 @@
+1984|George Orwell
+Animal Farm|George Orwell
+The Hobbit|J. R. R. Tolkien
+The Lord of the Rings|J. R. R. Tolkien
+Pride and Prejudice|Jane Austen
+Sense and Sensibility|Jane Austen
+Emma|Jane Austen
+Jane Eyre|Charlotte Brontë
+Wuthering Heights|Emily Brontë
+Great Expectations|Charles Dickens
+Oliver Twist|Charles Dickens
+A Tale of Two Cities|Charles Dickens
+A Christmas Carol|Charles Dickens
+Moby-Dick|Herman Melville
+The Scarlet Letter|Nathaniel Hawthorne
+To Kill a Mockingbird|Harper Lee
+The Catcher in the Rye|J. D. Salinger
+The Great Gatsby|F. Scott Fitzgerald
+The Sun Also Rises|Ernest Hemingway
+The Old Man and the Sea|Ernest Hemingway
+For Whom the Bell Tolls|Ernest Hemingway
+The Grapes of Wrath|John Steinbeck
+Of Mice and Men|John Steinbeck
+East of Eden|John Steinbeck
+Brave New World|Aldous Huxley
+Fahrenheit 451|Ray Bradbury
+Dune|Frank Herbert
+Foundation|Isaac Asimov
+2001: A Space Odyssey|Arthur C. Clarke
+Frankenstein|Mary Shelley
+Dracula|Bram Stoker
+The Time Machine|H. G. Wells
+The War of the Worlds|H. G. Wells
+The Metamorphosis|Franz Kafka
+The Trial|Franz Kafka
+Crime and Punishment|Fyodor Dostoevsky
+The Brothers Karamazov|Fyodor Dostoevsky
+War and Peace|Leo Tolstoy
+Anna Karenina|Leo Tolstoy
+Dead Souls|Nikolai Gogol
+Fathers and Sons|Ivan Turgenev
+The Master and Margarita|Mikhail Bulgakov
+Doctor Zhivago|Boris Pasternak
+Don Quixote|Miguel de Cervantes
+The Count of Monte Cristo|Alexandre Dumas
+The Three Musketeers|Alexandre Dumas
+Les Misérables|Victor Hugo
+The Hunchback of Notre-Dame|Victor Hugo
+Madame Bovary|Gustave Flaubert
+The Red and the Black|Stendhal
+In Search of Lost Time|Marcel Proust
+The Stranger|Albert Camus
+The Plague|Albert Camus
+Nausea|Jean-Paul Sartre
+One Hundred Years of Solitude|Gabriel García Márquez
+Love in the Time of Cholera|Gabriel García Márquez
+The House of the Spirits|Isabel Allende
+Ficciones|Jorge Luis Borges
+Hopscotch|Julio Cortázar
+Pedro Páramo|Juan Rulfo
+Like Water for Chocolate|Laura Esquivel
+Things Fall Apart|Chinua Achebe
+No Longer at Ease|Chinua Achebe
+Arrow of God|Chinua Achebe
+Half of a Yellow Sun|Chimamanda Ngozi Adichie
+Purple Hibiscus|Chimamanda Ngozi Adichie
+Americanah|Chimamanda Ngozi Adichie
+The Famished Road|Ben Okri
+Death and the King's Horseman|Wole Soyinka
+Petals of Blood|Ngũgĩ wa Thiong'o
+Weep Not, Child|Ngũgĩ wa Thiong'o
+Season of Migration to the North|Tayeb Salih
+Nervous Conditions|Tsitsi Dangarembga
+Disgrace|J. M. Coetzee
+July's People|Nadine Gordimer
+Cry, the Beloved Country|Alan Paton
+The God of Small Things|Arundhati Roy
+Midnight's Children|Salman Rushdie
+The White Tiger|Aravind Adiga
+A Suitable Boy|Vikram Seth
+The Namesake|Jhumpa Lahiri
+The Kite Runner|Khaled Hosseini
+A Thousand Splendid Suns|Khaled Hosseini
+Palace Walk|Naguib Mahfouz
+The Alchemist|Paulo Coelho
+Blindness|José Saramago
+The Name of the Rose|Umberto Eco
+If on a winter's night a traveler|Italo Calvino
+The Leopard|Giuseppe Tomasi di Lampedusa
+Siddhartha|Hermann Hesse
+Steppenwolf|Hermann Hesse
+The Magic Mountain|Thomas Mann
+Perfume|Patrick Süskind
+All Quiet on the Western Front|Erich Maria Remarque
+The Tin Drum|Günter Grass
+The Book Thief|Markus Zusak
+Beloved|Toni Morrison
+The Color Purple|Alice Walker
+The Handmaid's Tale|Margaret Atwood
+Life of Pi|Yann Martel
+The English Patient|Michael Ondaatje
+The Remains of the Day|Kazuo Ishiguro
+Never Let Me Go|Kazuo Ishiguro
+Kafka on the Shore|Haruki Murakami
+Norwegian Wood|Haruki Murakami
+Snow Country|Yasunari Kawabata
+The Tale of Genji|Murasaki Shikibu
+Dream of the Red Chamber|Cao Xueqin
+The Wonderful Wizard of Oz|L. Frank Baum
+Alice's Adventures in Wonderland|Lewis Carroll
+Treasure Island|Robert Louis Stevenson
+The Picture of Dorian Gray|Oscar Wilde
+The Little Prince|Antoine de Saint-Exupéry
+The Wind in the Willows|Kenneth Grahame
+The Secret Garden|Frances Hodgson Burnett
+Black Beauty|Anna Sewell
+The Call of the Wild|Jack London
+Little Women|Louisa May Alcott
+Anne of Green Gables|L. M. Montgomery
+Watership Down|Richard Adams

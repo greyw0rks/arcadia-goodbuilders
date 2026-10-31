@@ -1,0 +1,9 @@
+{
+  "crons": [{ "path": "/api/maintenance", "schedule": "0 3 * * *" }],
+  "redirects": [{
+    "source": "/:path*",
+    "has": [{ "type": "host", "value": "arcadia-goodbuilders.vercel.app" }],
+    "destination": "https://g.arcadia.uno/:path*",
+    "permanent": true
+  }]
+}

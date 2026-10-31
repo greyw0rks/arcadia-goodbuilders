@@ -1,0 +1,150 @@
+{
+  "brand": "Arcadia",
+  "version": "1.0",
+  "files": {
+    "Barlow-OFL.txt": {
+      "bytes": 4377,
+      "sha256": "186d750eb496a4c17a76385f82be6aea2ac1cf2de074a811d63786cf374ea73f"
+    },
+    "Manrope-OFL.txt": {
+      "bytes": 4387,
+      "sha256": "58172e0c0fac2cda8a37b348164bb55e44b0e69051e557e92b1d3f6910141f7b"
+    },
+    "README.md": {
+      "bytes": 1580,
+      "sha256": "4788a81f9d23f6ff1a4bb21824c294277e3aa747778f05758b046ea868a7717e"
+    },
+    "arcadia-app-icon.png": {
+      "bytes": 21071,
+      "sha256": "99bb8bbfaf954fc2ba51fc8eb24ee7a356cde5a56c745c278088efc4dd8e6fab"
+    },
+    "arcadia-app-icon.svg": {
+      "bytes": 467,
+      "sha256": "6239017c10b4375628160e3056bf39fc2392bd2f97d3cbf4202cf152ce30b594"
+    },
+    "arcadia-avatar.png": {
+      "bytes": 13610,
+      "sha256": "80a866d698269ec839c93b4fcbbba4e6055cd209ae793fa9dd5ed0c0da234b2a"
+    },
+    "arcadia-avatar.svg": {
+      "bytes": 470,
+      "sha256": "30ca17972d57d76c6fcd0e9a109cd95c3169c4fc082695c107d10c778ac9ced8"
+    },
+    "arcadia-banner-wide.png": {
+      "bytes": 83060,
+      "sha256": "e093eeb83ff7529bfa92796a648047a8bededa73eee5f302a07878bfc6dfd264"
+    },
+    "arcadia-banner-wide.svg": {
+      "bytes": 27963,
+      "sha256": "b9fa5cafa56658b43bbf16c93f01c2aab42733584a39ece9daf0398239258214"
+    },
+    "arcadia-banner-x.png": {
+      "bytes": 47240,
+      "sha256": "d1d5b2c68ab835a28e6ab105c2202ce1ba0f4ebc5e6c1b086108acdbf9e3677d"
+    },
+    "arcadia-banner-x.svg": {
+      "bytes": 27998,
+      "sha256": "651dbc7ed659da0c221233ada9cf5c6af57d348f012c392e21bab62cafddd93d"
+    },
+    "arcadia-brand-board.png": {
+      "bytes": 247674,
+      "sha256": "57de782cc4d084bc472798c182f6a81e7127bcd5b3957395d7fe0e1aef035524"
+    },
+    "arcadia-brand-board.svg": {
+      "bytes": 206988,
+      "sha256": "d5dd5f740c30c2d8d50ce8829fbf3897cb24c384660add752038735666a83e5a"
+    },
+    "arcadia-brand-guide.pdf": {
+      "bytes": 144653,
+      "sha256": "6b370a87b4efafcbc1e192733e889bfad875187ca88e11f033fcce92747217e1"
+    },
+    "arcadia-brand-guidelines.svg": {
+      "bytes": 306851,
+      "sha256": "3f6dc087168a4107e87ab58c657218b8164c4ed4d65bb4b9b26d53ef71b04ae8"
+    },
+    "arcadia-icon-180.png": {
+      "bytes": 2848,
+      "sha256": "f9798b6ee50860237125aca1efbf8a621a07baa25d46942b394cffb2b2dabd9f"
+    },
+    "arcadia-icon-192.png": {
+      "bytes": 3056,
+      "sha256": "6404f4709c63e5ebe11500dbffedfc647c1bbe69f3cbeacd83d1ea28ead25af3"
+    },
+    "arcadia-icon-32.png": {
+      "bytes": 618,
+      "sha256": "b3df579d49f215e065e00fafff6ce9cc06f2c3816b6a23ad34c61c1a320b0d37"
+    },
+    "arcadia-icon-512.png": {
+      "bytes": 8883,
+      "sha256": "0eeb202a7c2c62851c5631e3dd6f4e84ac0def584d1986b44e10583f9a3d4cce"
+    },
+    "arcadia-logo-ink.png": {
+      "bytes": 56204,
+      "sha256": "60fbaca94633d0be5435c929529d26869c4045375cc301ae326e8749677b6d15"
+    },
+    "arcadia-logo-ink.svg": {
+      "bytes": 3937,
+      "sha256": "c7c1977e71e8c5fe39805fb5e9baeb78d2bddfe6102b719f232efd9c6a7b12fc"
+    },
+    "arcadia-logo-stacked.png": {
+      "bytes": 36893,
+      "sha256": "049f79b1e8831e9c5d6614ea9a7b7eaec31d5f43142dbc6a1c8098154df5ffbf"
+    },
+    "arcadia-logo-stacked.svg": {
+      "bytes": 3948,
+      "sha256": "fd584e54f41a98e6ddf800b74d48931831527aa257746234058697474b5357ca"
+    },
+    "arcadia-logo-white.png": {
+      "bytes": 47058,
+      "sha256": "76b6ff828701d9b1c2c24faf5ff987754b8f14c0018e159028693b98f082f344"
+    },
+    "arcadia-logo-white.svg": {
+      "bytes": 3932,
+      "sha256": "147af8476e4e16290b726f76eaadfb4c72f59e83df8c541b8eb0c7b32de965e9"
+    },
+    "arcadia-logo.png": {
+      "bytes": 54291,
+      "sha256": "5582812bc9b615609cdc440605d70a1dc0143c14ef0f338e71c5da6cfe605b10"
+    },
+    "arcadia-logo.svg": {
+      "bytes": 3934,
+      "sha256": "a74f46beacd7b719ec65b70ffd161f93f11d5e2ffbbfa7d48090eb6cccd84af1"
+    },
+    "arcadia-mark-ink.png": {
+      "bytes": 20348,
+      "sha256": "9c35073168749b21f2be1f21e1d28baeef342137c9d8755b6c84cf44d69e0226"
+    },
+    "arcadia-mark-ink.svg": {
+      "bytes": 390,
+      "sha256": "f8d875bace6f2e0dd07266c452cc8c0a4ea149ae9ff53305a25c48379c643de5"
+    },
+    "arcadia-mark-violet.png": {
+      "bytes": 19453,
+      "sha256": "d1ed5e3ed6bee1a9f90ebcb9ef27fd51fd63aecf390135b5cb12f2183b9f944b"
+    },
+    "arcadia-mark-violet.svg": {
+      "bytes": 390,
+      "sha256": "37bd1cfc1d28a1d393c5986c6e90f5764aa8a0f5554c98721e46203667981ded"
+    },
+    "arcadia-mark-white.png": {
+      "bytes": 19247,
+      "sha256": "cbd676b004e30ff3d084233321633b72c045406283c19c7394dc11510c4e2844"
+    },
+    "arcadia-mark-white.svg": {
+      "bytes": 390,
+      "sha256": "9ea286c85a5a13e4a17b137bb1bdea6950ac486ffb38c5824a46e9c92f9677da"
+    },
+    "arcadia-social-card.png": {
+      "bytes": 42444,
+      "sha256": "222c08f3605404c3eea6970db539cb89b78b484191a9d542e5fe28c6290e480b"
+    },
+    "arcadia-social-card.svg": {
+      "bytes": 27718,
+      "sha256": "eb362d0c5a67b60ed0ef81a896c64da166d22d16eda19d5d732f412c708c5357"
+    },
+    "tokens.json": {
+      "bytes": 559,
+      "sha256": "77e1d01af3abb71ef681c58321c7742bab18e7778918ffd3b6fc745b3ece329c"
+    }
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "name": "arcadia-goodbuilders",
+  "version": "0.1.0",
+  "private": true,
+  "engines": {
+    "node": "22.x"
+  },
+  "description": "Arcadia GoodBuilders MVP: daily quiz, XP progression and transparent tournament rules on Celo.",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "test": "vitest run",
+    "test:e2e": "playwright test",
+    "typecheck": "tsc --noEmit",
+    "questions:export": "tsx scripts/export-questions.ts",
+    "questions:stats": "tsx scripts/question-stats.ts",
+    "db:backup": "tsx scripts/database-backup.ts",
+    "tournament": "tsx scripts/tournament.ts"
+  },
+  "dependencies": {
+    "@libsql/client": "0.18.0",
+    "@react-three/drei": "^10.7.9",
+    "@react-three/fiber": "^9.8.2",
+    "@walletconnect/ethereum-provider": "2.26.0",
+    "motion": "^14.8.0",
+    "next": "^16.2.7",
+    "qrcode": "1.5.4",
+    "react": "^19.2.7",
+    "react-dom": "^19.2.7",
+    "three": "^0.187.0",
+    "viem": "^2.57.13"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.64.1",
+    "@types/node": "^20.16.0",
+    "@types/qrcode": "^1.5.6",
+    "@types/react": "^19.2.16",
+    "@types/react-dom": "^19.2.3",
+    "@types/three": "^0.186.0",
+    "tsx": "^4.23.15",
+    "typescript": "^5.6.0",
+    "vitest": "^2.1.0"
+  },
+  "packageManager": "pnpm@12.16.1",
+  "license": "UNLICENSED"
+}

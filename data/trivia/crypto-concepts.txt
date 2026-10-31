@@ -1,0 +1,175 @@
+easy|wallet-safety|Private key|The secret cryptographic value used to create signatures that authorize a wallet's transactions
+easy|wallet-safety|Public address|The identifier someone can share to receive assets without disclosing their signing secret
+easy|wallet-safety|Recovery phrase|A sequence of words used by many wallets to restore their underlying cryptographic keys
+easy|wallet-safety|Hardware wallet|A dedicated physical device designed to keep signing keys isolated from a general-purpose computer
+easy|wallet-safety|Hot wallet|A wallet whose signing environment is connected to the internet
+easy|wallet-safety|Cold wallet|A wallet whose signing keys are kept offline
+easy|wallet-safety|Custodial wallet|A wallet service in which a third party controls the customer's signing keys
+easy|wallet-safety|Self-custody|An arrangement in which the user controls the keys needed to authorize their own asset transfers
+easy|wallet-safety|Phishing|Impersonating a trusted service to trick people into revealing secrets or approving harmful actions
+easy|wallet-safety|Multisignature wallet|A wallet that requires approvals from more than one configured signing key
+easy|wallet-safety|Watch-only wallet|A wallet setup that can inspect addresses and balances but has no signing keys for them
+easy|wallet-safety|Address poisoning|An attack that plants lookalike addresses in transaction history to encourage copying the wrong recipient
+easy|wallet-safety|Blind signing|Approving a cryptographic request without understanding or inspecting the action it authorizes
+easy|wallet-safety|Backup|A separately stored copy of information needed to restore access after the original is lost
+easy|wallet-safety|Two-factor authentication|An account login method requiring two different categories of evidence of identity
+easy|consensus|Blockchain|A ledger structure in which blocks of records reference earlier blocks using cryptographic links
+easy|consensus|Block|A batch of records proposed or accepted as one unit in a blockchain's ordered history
+easy|consensus|Transaction|An instruction submitted to a network to transfer value or change application state
+easy|consensus|Node|A computer participating in a blockchain network by communicating or processing its data
+easy|consensus|Validator|A network participant that performs a protocol's block proposal or verification duties
+easy|consensus|Miner|A participant that searches for a valid proof-of-work solution when constructing a block
+easy|consensus|Consensus|The process by which distributed participants agree on the ledger state under protocol rules
+easy|consensus|Proof of work|A consensus approach that uses verifiable computational effort to help determine valid chain history
+easy|consensus|Proof of stake|A consensus approach that assigns duties using participants' staked assets under protocol rules
+easy|consensus|Confirmation|A transaction's inclusion in accepted chain history, often counted with subsequent blocks
+easy|consensus|Genesis block|The first block from which a blockchain's history begins
+easy|consensus|Fork|A divergence in blockchain history or protocol rules
+easy|consensus|Mainnet|A blockchain's production network carrying assets with real economic value
+easy|consensus|Testnet|A network intended for testing applications and protocol behaviour using test assets
+easy|consensus|Decentralization|Distributing control or operation across participants rather than concentrating it in one authority
+easy|token-basics|Cryptocurrency|A digital asset whose ownership and transfers are governed using cryptographic and network rules
+easy|token-basics|Token|A digital unit represented by a protocol or application, often through a smart contract
+easy|token-basics|Native coin|A network's own protocol-level asset, distinct from tokens created by application contracts
+easy|token-basics|Stablecoin|A token designed to track a reference value, although maintaining that value is not guaranteed
+easy|token-basics|NFT|A token standard or asset representation intended to distinguish individually identified units
+easy|token-basics|Fungibility|The property that one unit of an asset can substitute for another equivalent unit
+easy|token-basics|Token supply|The number of units of a token under a specified supply definition
+easy|token-basics|Minting|Creating new token units according to a token's rules
+easy|token-basics|Burning|Removing token units from usable supply according to a token's rules
+easy|token-basics|Airdrop|A distribution of tokens to selected addresses, often without a direct purchase
+easy|token-basics|Vesting|A schedule that gradually makes allocated tokens available over time or conditions
+easy|token-basics|Market capitalization|The product of an asset's market price and the supply measure being used
+easy|token-basics|Volatility|The degree to which an asset's price fluctuates over time
+easy|token-basics|Liquidity|The ability to trade an asset without causing a large change in its price
+easy|token-basics|Ticker symbol|A short identifier commonly used to refer to an asset on trading interfaces
+easy|defi|Decentralized exchange|An exchange whose trades are executed through protocols or smart contracts rather than a conventional central order-processing operator
+easy|defi|Liquidity pool|A collection of assets deposited into a contract to support swaps or other financial operations
+easy|defi|Swap|An exchange of one token or asset for another
+easy|defi|Slippage|The difference between an expected trade execution price and the price actually received
+easy|defi|Collateral|An asset pledged to secure an obligation such as a loan
+easy|defi|Liquidation|Closing or selling a position when it no longer meets the required collateral conditions
+easy|defi|Borrowing|Receiving assets under an obligation to repay according to agreed rules
+easy|defi|Lending|Providing assets for another party to use under repayment terms
+easy|defi|Interest|A charge or return calculated for the use of borrowed or supplied assets over time
+easy|defi|Bridge|A system that moves assets or messages between separate blockchain environments
+easy|evm|Smart contract|Code executed by a blockchain that applies rules and may hold or update state
+easy|evm|Gas|The unit used to measure execution work in networks such as Ethereum
+easy|evm|Gas fee|The payment charged for a transaction's use of network execution resources
+easy|evm|Block explorer|A service for inspecting public blocks, transactions, addresses and contract activity
+easy|evm|Transaction hash|A cryptographic identifier used to look up a particular transaction
+easy|evm|Contract address|The on-chain address identifying a deployed contract instance
+easy|evm|Revert|An execution failure that rolls back the state changes of the failing EVM call
+easy|evm|Read-only call|An execution request used to inspect contract data without committing a new transaction to chain state
+easy|evm|RPC endpoint|A server interface through which software requests blockchain information or submits operations
+easy|evm|Chain ID|A network identifier used by EVM applications and transaction-signing schemes to distinguish chains
+easy|cryptography|Hash function|A function that maps input data to a fixed-size digest and is designed for properties such as collision resistance
+easy|cryptography|Digital signature|Cryptographic evidence that a message was authorized by a corresponding signing key
+easy|cryptography|Encryption|Transforming information so that an appropriate key is needed to recover its readable form
+easy|cryptography|Decryption|Recovering readable information from encrypted data using an appropriate key
+easy|cryptography|Public key|The non-secret key material associated with a private signing key and used in signature verification
+easy|networking|Peer-to-peer network|A network in which participants communicate directly with other participants instead of relying only on a central server
+easy|networking|Mempool|A node's collection of transactions it knows about that have not yet been included in a block
+easy|networking|Network congestion|A situation where demand for transaction inclusion exceeds the network's immediately available capacity
+easy|networking|Transaction broadcast|Sending a transaction to network participants so it can propagate toward potential inclusion
+easy|networking|Wallet connection|Giving an application a communication link to a wallet, which alone does not authorize arbitrary token spending
+medium|evm|Account nonce|The sequential transaction counter used for an externally owned Ethereum account
+medium|evm|Gas limit|The maximum amount of execution gas a transaction authorizes the network to consume
+medium|evm|Gas used|The amount of execution gas actually consumed by a completed transaction
+medium|evm|Base fee|The protocol-determined per-unit gas charge introduced by Ethereum's fee-market reform
+medium|evm|Priority fee|The per-unit gas tip offered in addition to the protocol's base fee
+medium|evm|ERC-20 allowance|The amount a token owner has authorized a particular spender to transfer on their behalf
+medium|evm|Token decimals|The scaling convention that converts integer token base units into human-readable amounts
+medium|evm|Event log|Data emitted during successful contract execution for applications to index and inspect
+medium|evm|ABI|The interface convention describing how contract function calls and return values are encoded
+medium|evm|Bytecode|The machine-readable instruction sequence executed or deployed in an environment such as the EVM
+medium|evm|Externally owned account|An Ethereum account controlled by a private signing key, including when it delegates execution to code
+medium|evm|Contract account|An Ethereum account whose behaviour is defined by deployed code
+medium|evm|Storage|The persistent per-contract key-value state maintained by the EVM across transactions
+medium|evm|Memory|A temporary byte-addressed EVM working area whose contents do not persist across separate external calls
+medium|evm|Calldata|The immutable input bytes supplied to an EVM call
+medium|evm|Function selector|The first four bytes of a function-signature hash used to identify a standard ABI-encoded function call
+medium|evm|Payable function|A Solidity function declared as able to receive native value through a call
+medium|evm|View function|A Solidity function declared not to modify state, although it may read state
+medium|evm|Pure function|A Solidity function declared not to read or modify contract state
+medium|evm|Constructor|Initialization code that runs while a contract is being created
+medium|consensus|Finality|The assurance supplied by a protocol that a block or transaction will not be reverted under its stated assumptions
+medium|consensus|Chain reorganization|Replacing part of a node's accepted chain history with a different valid branch
+medium|consensus|Slashing|A protocol penalty that destroys or confiscates some stake for specified validator misconduct
+medium|consensus|Validator uptime|The proportion of time a validator remains available to perform its assigned duties
+medium|consensus|Hard fork|A protocol change that can make some previously invalid blocks valid under the new rules
+medium|consensus|Soft fork|A protocol change that restricts validity rules so compliant new blocks remain acceptable to older validating nodes
+medium|consensus|Checkpoint|A designated reference block or state used by a protocol or client to anchor verification
+medium|defi|Automated market maker|A mechanism that prices trades using pool balances and a mathematical rule rather than only matching limit orders
+medium|defi|Price impact|The change in a pool or market's price caused by the size of a particular trade
+medium|defi|Flash loan|An uncollateralized loan that must be repaid within the same atomic transaction or the transaction reverts
+medium|defi|Loan-to-value ratio|The borrowed value divided by the collateral value, under the protocol's valuation rules
+medium|defi|Oracle|A system that supplies external information, such as prices, to a blockchain application
+medium|defi|Governance token|A token used to express voting or governance rights under a protocol's rules
+medium|defi|Timelock|A mechanism that prevents an authorized operation from executing until a specified delay or time has passed
+medium|defi|Wrapped token|A token representation of another asset held or accounted for by an underlying system
+medium|defi|Liquidity provider|A participant that supplies assets to a pool used for trading or other protocol operations
+medium|defi|Impermanent loss|The divergence loss a pool position can experience relative to holding its component assets outside the pool
+medium|cryptography|Merkle tree|A hash-based tree structure that combines leaf commitments into one root commitment
+medium|cryptography|Merkle proof|A sequence of sibling hashes used to demonstrate that a leaf belongs under a particular hash-tree root
+medium|cryptography|Collision resistance|The property that finding two distinct inputs with the same hash should be computationally difficult
+medium|cryptography|Preimage resistance|The property that recovering an input for a given hash output should be computationally difficult
+medium|cryptography|Salt|Additional data incorporated into a cryptographic operation to distinguish otherwise similar inputs
+medium|wallet-safety|Signature replay|Reusing a valid signature in a context where it was not intended to authorize another action
+medium|wallet-safety|Domain separation|Including context identifiers in signed or hashed data to prevent reuse across different purposes
+medium|wallet-safety|Transaction simulation|Executing a proposed transaction against a state model to inspect likely effects without broadcasting it
+medium|wallet-safety|Approval revocation|Removing or reducing a spender's previously granted token transfer permission
+medium|networking|Layer 1|A base blockchain that establishes its own consensus and settlement rules
+medium|networking|Layer 2|A protocol built above a base chain that derives some of its security or settlement from that chain
+medium|networking|Rollup|A scaling system that executes transactions outside a base chain while publishing information needed for settlement or verification
+medium|networking|Data availability|The property that the data needed to verify and reconstruct a system's state can actually be obtained
+hard|evm|DELEGATECALL|An EVM call mechanism that executes another account's code using the caller's storage context
+hard|evm|CREATE2|An EVM contract-creation operation whose resulting address depends on the deployer, a salt, and initialization-code hash
+hard|evm|Proxy contract|A contract that forwards execution to an implementation while retaining its own address and usually its own storage
+hard|evm|Storage collision|A conflict where incompatible layouts cause two pieces of contract logic to interpret the same storage location differently
+hard|evm|Reentrancy|A control-flow situation where an external interaction calls back into code before its earlier execution has finished
+hard|evm|Checks-effects-interactions|A contract-design pattern that checks conditions, updates internal state, and only then performs external interactions
+hard|evm|Reentrancy guard|A lock-like contract mechanism that rejects prohibited nested entry into protected execution paths
+hard|evm|Transient storage|Transaction-scoped EVM state that is discarded after the transaction rather than retained as persistent contract storage
+hard|evm|Access list|An EVM transaction field listing addresses and storage slots expected to be accessed during execution
+hard|evm|Custom error|A Solidity-defined typed revert identifier whose selector and arguments can replace a long revert string
+hard|evm|Packed encoding|An encoding mode that omits standard ABI padding and can make boundaries ambiguous for certain dynamic inputs
+hard|evm|Diamond storage|A named-slot storage organization used to coordinate state across multiple delegate-called contract facets
+hard|evm|UserOperation|The account-abstraction operation object processed through an EntryPoint-oriented bundler system
+hard|evm|Bundler|An account-abstraction participant that collects user operations and submits a transaction to execute them
+hard|evm|Paymaster|An account-abstraction component that can sponsor or define conditions for paying a user operation's execution costs
+hard|evm|EntryPoint|The shared contract that validates and executes user operations in the ERC-4337 account-abstraction design
+hard|cryptography|Zero-knowledge proof|A proof that establishes a statement while revealing no information beyond what follows from that statement under its formal definition
+hard|cryptography|Witness|Private or auxiliary values that satisfy the relation being proven in a proof system
+hard|cryptography|Nullifier|A derived identifier used to detect repeated use of a private credential or note without directly revealing that secret
+hard|cryptography|Polynomial commitment|A compact commitment to a polynomial that supports proofs about its evaluations
+hard|cryptography|KZG commitment|A pairing-based polynomial commitment construction used in Ethereum's blob-related cryptography
+hard|cryptography|Trusted setup|A setup procedure that generates cryptographic parameters whose security may depend on hidden values being destroyed
+hard|cryptography|BLS signature|A pairing-based signature construction that supports useful aggregation properties
+hard|cryptography|Schnorr signature|A discrete-log-based signature construction known for a linear structure useful in multisignature protocols
+hard|cryptography|ECDSA|An elliptic-curve digital signature algorithm used for many externally owned blockchain accounts
+hard|cryptography|secp256k1|The particular elliptic curve used by Bitcoin and Ethereum's traditional externally owned account signatures
+hard|cryptography|Fiat-Shamir transform|A technique that replaces verifier challenges in suitable interactive proofs with hash-derived challenges
+hard|cryptography|Verifiable random function|A keyed function that produces a pseudorandom output together with a publicly verifiable proof of correctness
+hard|cryptography|Threshold signature|A signature created by cooperation among a sufficient subset of key-share holders without reconstructing the whole signing secret
+hard|consensus|Byzantine fault|A failure mode in which a participant may behave arbitrarily, including sending conflicting information
+hard|consensus|Liveness|The protocol property that valid work can eventually make progress under the stated conditions
+hard|consensus|Safety|The protocol property that prohibited conflicting outcomes do not both occur under the stated conditions
+hard|consensus|Weak subjectivity|A proof-of-stake synchronization requirement to obtain a sufficiently recent trusted checkpoint before validating history independently
+hard|consensus|Long-range attack|An attempt to construct misleading old proof-of-stake history using keys that were valid far in the past
+hard|consensus|Nothing-at-stake problem|The incentive issue where signing multiple proof-of-stake branches can be cheap without appropriate penalties
+hard|networking|Optimistic rollup|A rollup design that can accept state claims provisionally and challenge invalid claims through a dispute process
+hard|networking|Validity rollup|A rollup design that proves state-transition validity using cryptographic proofs checked by the settlement system
+hard|networking|Sequencer|A participant or system responsible for ordering transactions in a rollup or similar execution environment
+hard|networking|Fraud proof|Evidence used to demonstrate that a claimed state transition is invalid in a dispute-based system
+hard|networking|Forced inclusion|A protocol path intended to let users get transactions included despite a sequencer refusing to include them
+hard|defi|MEV|Value obtainable by influencing transaction inclusion, exclusion, or ordering beyond ordinary block rewards and gas fees
+hard|defi|Sandwich attack|Placing transactions before and after a victim's trade to exploit the price movement caused by that trade
+hard|defi|Time-weighted average price|A price statistic that averages observations according to how long each observed price applied
+hard|defi|Concentrated liquidity|Liquidity provision restricted to chosen price ranges rather than spread uniformly across every possible price
+hard|defi|Vault share|A tokenized claim representing a proportional interest in assets managed by a vault under its conversion rules
+hard|defi|Donation attack|Manipulating share pricing in some vault designs by transferring assets directly without minting corresponding shares
+hard|bitcoin|UTXO|A transaction output that remains available to be spent because it has not yet been consumed by a valid input
+hard|bitcoin|Coinbase transaction|The special first transaction in a Bitcoin block that claims permitted block rewards and transaction fees
+hard|bitcoin|Segregated Witness|The Bitcoin upgrade that separates signature witness data from the traditional transaction identifier calculation
+hard|bitcoin|Taproot|The Bitcoin upgrade combining a newer output-spending design with Schnorr signatures and script-tree commitments

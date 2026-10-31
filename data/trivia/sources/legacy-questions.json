@@ -1,0 +1,2252 @@
+[
+  {
+    "id": "nigeria-capital",
+    "prompt": "What is the capital of Nigeria?",
+    "options": [
+      "Lagos",
+      "Abuja",
+      "Kano",
+      "Ibadan"
+    ],
+    "answerIndex": 1,
+    "explanation": "Abuja is the capital of Nigeria.",
+    "difficulty": "easy",
+    "category": "geography",
+    "revision": 1
+  },
+  {
+    "id": "kenya-capital",
+    "prompt": "What is the capital of Kenya?",
+    "options": [
+      "Nairobi",
+      "Mombasa",
+      "Kisumu",
+      "Kampala"
+    ],
+    "answerIndex": 0,
+    "explanation": "Nairobi is the capital of Kenya.",
+    "difficulty": "easy",
+    "category": "geography",
+    "revision": 1
+  },
+  {
+    "id": "earth-moon",
+    "prompt": "How many natural moons does Earth have?",
+    "options": [
+      "Zero",
+      "One",
+      "Two",
+      "Three"
+    ],
+    "answerIndex": 1,
+    "explanation": "Earth has one natural moon.",
+    "difficulty": "easy",
+    "category": "science",
+    "revision": 1
+  },
+  {
+    "id": "triangle-angles",
+    "prompt": "What is the sum of the interior angles of a flat triangle?",
+    "options": [
+      "90 degrees",
+      "180 degrees",
+      "270 degrees",
+      "360 degrees"
+    ],
+    "answerIndex": 1,
+    "explanation": "The interior angles of a triangle in a plane add up to 180 degrees.",
+    "difficulty": "medium",
+    "category": "math-logic",
+    "revision": 1
+  },
+  {
+    "id": "light-star",
+    "prompt": "Which star is closest to Earth?",
+    "options": [
+      "Sirius",
+      "Polaris",
+      "The Sun",
+      "Proxima Centauri"
+    ],
+    "answerIndex": 2,
+    "explanation": "The Sun is the star at the center of our solar system.",
+    "difficulty": "easy",
+    "category": "science",
+    "revision": 1
+  },
+  {
+    "id": "heart-chambers",
+    "prompt": "How many chambers does the human heart have?",
+    "options": [
+      "Two",
+      "Three",
+      "Four",
+      "Five"
+    ],
+    "answerIndex": 2,
+    "explanation": "The heart has two atria and two ventricles.",
+    "difficulty": "easy",
+    "category": "science",
+    "revision": 1
+  },
+  {
+    "id": "percent-quarter",
+    "prompt": "What is 25% of 200?",
+    "options": [
+      "25",
+      "40",
+      "50",
+      "75"
+    ],
+    "answerIndex": 2,
+    "explanation": "One quarter of 200 is 50.",
+    "difficulty": "medium",
+    "category": "math-logic",
+    "revision": 1
+  },
+  {
+    "id": "hex-base",
+    "prompt": "Which number base does hexadecimal use?",
+    "options": [
+      "2",
+      "8",
+      "10",
+      "16"
+    ],
+    "answerIndex": 3,
+    "explanation": "Hexadecimal uses sixteen digits: 0–9 and A–F.",
+    "difficulty": "medium",
+    "category": "technology",
+    "revision": 1
+  },
+  {
+    "id": "cpu-name",
+    "prompt": "What does CPU stand for?",
+    "options": [
+      "Central Processing Unit",
+      "Computer Power Utility",
+      "Core Program User",
+      "Central Protocol Unit"
+    ],
+    "answerIndex": 0,
+    "explanation": "The CPU is the Central Processing Unit.",
+    "difficulty": "medium",
+    "category": "technology",
+    "revision": 1
+  },
+  {
+    "id": "seed-phrase",
+    "prompt": "Who should you share your wallet recovery phrase with?",
+    "options": [
+      "Support agents",
+      "Tournament hosts",
+      "Nobody",
+      "Anyone with your address"
+    ],
+    "answerIndex": 2,
+    "explanation": "A recovery phrase gives control of the wallet and should remain private.",
+    "difficulty": "easy",
+    "category": "wallet-safety",
+    "revision": 1
+  },
+  {
+    "id": "public-address",
+    "prompt": "What can someone use your public wallet address for?",
+    "options": [
+      "Recover your private key",
+      "Send assets to you",
+      "Approve transactions for you",
+      "Reset your password"
+    ],
+    "answerIndex": 1,
+    "explanation": "A public address is used to receive assets; it does not reveal the private key.",
+    "difficulty": "easy",
+    "category": "wallet-safety",
+    "revision": 1
+  },
+  {
+    "id": "gas-cost",
+    "prompt": "What does a blockchain gas fee pay for?",
+    "options": [
+      "Network computation",
+      "Guaranteed profit",
+      "A new wallet",
+      "A quiz subscription"
+    ],
+    "answerIndex": 0,
+    "explanation": "Gas fees pay for processing transactions on the network.",
+    "difficulty": "medium",
+    "category": "wallet-safety",
+    "revision": 1
+  },
+  {
+    "id": "phishing",
+    "prompt": "Which is a common sign of phishing?",
+    "options": [
+      "An urgent demand for your recovery phrase",
+      "A public token address",
+      "A confirmed block number",
+      "A balance shown in your wallet"
+    ],
+    "answerIndex": 0,
+    "explanation": "Urgent requests for wallet secrets are a common phishing tactic.",
+    "difficulty": "easy",
+    "category": "wallet-safety",
+    "revision": 1
+  },
+  {
+    "id": "compound",
+    "prompt": "What is compound interest?",
+    "options": [
+      "Interest on principal and accumulated interest",
+      "A fixed account fee",
+      "A one-time cash bonus",
+      "Interest only on principal"
+    ],
+    "answerIndex": 0,
+    "explanation": "Compounding includes interest earned on previous interest.",
+    "difficulty": "medium",
+    "category": "money",
+    "revision": 1
+  },
+  {
+    "id": "budget",
+    "prompt": "What is a budget used for?",
+    "options": [
+      "Guaranteeing investment returns",
+      "Planning income and spending",
+      "Creating new currency",
+      "Removing all risk"
+    ],
+    "answerIndex": 1,
+    "explanation": "A budget helps plan how income will cover spending and saving.",
+    "difficulty": "easy",
+    "category": "money",
+    "revision": 1
+  },
+  {
+    "id": "inflation",
+    "prompt": "What does inflation generally describe?",
+    "options": [
+      "A rise in the general price level",
+      "A rise in every salary",
+      "A fall in all prices",
+      "An increase in the number of banks"
+    ],
+    "answerIndex": 0,
+    "explanation": "Inflation is a sustained increase in the general level of prices.",
+    "difficulty": "medium",
+    "category": "money",
+    "revision": 1
+  },
+  {
+    "id": "emergency-fund",
+    "prompt": "What is the main purpose of an emergency fund?",
+    "options": [
+      "Unexpected essential expenses",
+      "Guaranteed high returns",
+      "Daily entertainment",
+      "Paying every investment fee"
+    ],
+    "answerIndex": 0,
+    "explanation": "Emergency savings cover unexpected essential costs.",
+    "difficulty": "easy",
+    "category": "money",
+    "revision": 1
+  },
+  {
+    "id": "diversify",
+    "prompt": "What does diversification mean in investing?",
+    "options": [
+      "Putting everything in one asset",
+      "Spreading investments across assets",
+      "Borrowing to invest more",
+      "Trading every hour"
+    ],
+    "answerIndex": 1,
+    "explanation": "Diversification spreads exposure across different assets.",
+    "difficulty": "medium",
+    "category": "money",
+    "revision": 1
+  },
+  {
+    "id": "kilometer",
+    "prompt": "How many meters are in one kilometer?",
+    "options": [
+      "100",
+      "500",
+      "1000",
+      "10000"
+    ],
+    "answerIndex": 2,
+    "explanation": "The prefix kilo means one thousand.",
+    "difficulty": "easy",
+    "category": "math-logic",
+    "revision": 1
+  },
+  {
+    "id": "dozen",
+    "prompt": "How many items make a dozen?",
+    "options": [
+      "6",
+      "10",
+      "12",
+      "20"
+    ],
+    "answerIndex": 2,
+    "explanation": "A dozen is twelve items.",
+    "difficulty": "easy",
+    "category": "math-logic",
+    "revision": 1
+  },
+  {
+    "id": "square-nine",
+    "prompt": "What is the square root of 81?",
+    "options": [
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "answerIndex": 2,
+    "explanation": "Nine multiplied by nine equals 81.",
+    "difficulty": "medium",
+    "category": "math-logic",
+    "revision": 1
+  },
+  {
+    "id": "minute-seconds",
+    "prompt": "How many seconds are in three minutes?",
+    "options": [
+      "90",
+      "120",
+      "180",
+      "300"
+    ],
+    "answerIndex": 2,
+    "explanation": "Three minutes contain 3 × 60 = 180 seconds.",
+    "difficulty": "easy",
+    "category": "math-logic",
+    "revision": 1
+  },
+  {
+    "id": "continent-size",
+    "prompt": "Which continent is largest by land area?",
+    "options": [
+      "Africa",
+      "Asia",
+      "Europe",
+      "South America"
+    ],
+    "answerIndex": 1,
+    "explanation": "Asia is the largest continent by land area.",
+    "difficulty": "easy",
+    "category": "geography",
+    "revision": 1
+  },
+  {
+    "id": "sahara",
+    "prompt": "On which continent is the Sahara Desert?",
+    "options": [
+      "Asia",
+      "Africa",
+      "Australia",
+      "Europe"
+    ],
+    "answerIndex": 1,
+    "explanation": "The Sahara stretches across North Africa.",
+    "difficulty": "easy",
+    "category": "geography",
+    "revision": 1
+  },
+  {
+    "id": "equator",
+    "prompt": "What does the equator divide Earth into?",
+    "options": [
+      "Eastern and western halves",
+      "Northern and southern halves",
+      "Land and water",
+      "Four equal continents"
+    ],
+    "answerIndex": 1,
+    "explanation": "The equator separates the northern and southern hemispheres.",
+    "difficulty": "easy",
+    "category": "geography",
+    "revision": 1
+  },
+  {
+    "id": "japan-currency",
+    "prompt": "What is the currency of Japan?",
+    "options": [
+      "Won",
+      "Yuan",
+      "Yen",
+      "Baht"
+    ],
+    "answerIndex": 2,
+    "explanation": "Japan uses the yen.",
+    "difficulty": "easy",
+    "category": "geography",
+    "revision": 1
+  },
+  {
+    "id": "oxygen-symbol",
+    "prompt": "What is the chemical symbol for oxygen?",
+    "options": [
+      "Ox",
+      "O",
+      "Og",
+      "Om"
+    ],
+    "answerIndex": 1,
+    "explanation": "The chemical symbol for oxygen is O.",
+    "difficulty": "easy",
+    "category": "science",
+    "revision": 1
+  },
+  {
+    "id": "gold-symbol",
+    "prompt": "What is the chemical symbol for gold?",
+    "options": [
+      "Ag",
+      "Au",
+      "Gd",
+      "Go"
+    ],
+    "answerIndex": 1,
+    "explanation": "Gold is represented by Au, from the Latin aurum.",
+    "difficulty": "medium",
+    "category": "science",
+    "revision": 1
+  },
+  {
+    "id": "boiling-water",
+    "prompt": "At standard atmospheric pressure, at what temperature does pure water boil?",
+    "options": [
+      "50°C",
+      "75°C",
+      "100°C",
+      "150°C"
+    ],
+    "answerIndex": 2,
+    "explanation": "Water boils at 100°C at standard atmospheric pressure.",
+    "difficulty": "easy",
+    "category": "science",
+    "revision": 2
+  },
+  {
+    "id": "gravity",
+    "prompt": "Which force keeps planets in orbit around the Sun?",
+    "options": [
+      "Friction",
+      "Magnetism",
+      "Gravity",
+      "Buoyancy"
+    ],
+    "answerIndex": 2,
+    "explanation": "Gravity provides the attraction that keeps planets in orbit.",
+    "difficulty": "easy",
+    "category": "science",
+    "revision": 1
+  },
+  {
+    "id": "plant-energy",
+    "prompt": "What is the main energy source for photosynthesis?",
+    "options": [
+      "Sunlight",
+      "Soil minerals",
+      "Wind",
+      "Moonlight"
+    ],
+    "answerIndex": 0,
+    "explanation": "Plants capture light energy for photosynthesis.",
+    "difficulty": "easy",
+    "category": "science",
+    "revision": 1
+  },
+  {
+    "id": "sound-vacuum",
+    "prompt": "Can sound travel through a perfect vacuum?",
+    "options": [
+      "Yes, faster than light",
+      "Yes, at normal speed",
+      "No",
+      "Only low notes"
+    ],
+    "answerIndex": 2,
+    "explanation": "Sound requires a medium such as air, water, or a solid.",
+    "difficulty": "medium",
+    "category": "science",
+    "revision": 1
+  },
+  {
+    "id": "browser-protocol",
+    "prompt": "What does HTTPS add to HTTP?",
+    "options": [
+      "Encrypted communication",
+      "Free internet",
+      "Unlimited storage",
+      "Automatic anonymity"
+    ],
+    "answerIndex": 0,
+    "explanation": "HTTPS uses TLS to encrypt communication between the browser and server.",
+    "difficulty": "medium",
+    "category": "technology",
+    "revision": 1
+  },
+  {
+    "id": "block-explorer",
+    "prompt": "What can a blockchain explorer help you inspect?",
+    "options": [
+      "Your secret recovery phrase",
+      "Public transactions and blocks",
+      "Guaranteed future prices",
+      "Private messages"
+    ],
+    "answerIndex": 1,
+    "explanation": "Explorers display public blockchain transaction and block data.",
+    "difficulty": "easy",
+    "category": "wallet-safety",
+    "revision": 1
+  },
+  {
+    "id": "token-decimals",
+    "prompt": "Why do token decimals matter?",
+    "options": [
+      "They determine how raw units display",
+      "They guarantee price stability",
+      "They set the number of wallets",
+      "They remove fees"
+    ],
+    "answerIndex": 0,
+    "explanation": "Decimals scale integer base units into human-readable token amounts.",
+    "difficulty": "medium",
+    "category": "wallet-safety",
+    "revision": 1
+  },
+  {
+    "id": "transaction-hash",
+    "prompt": "What identifies a specific blockchain transaction?",
+    "options": [
+      "Its transaction hash",
+      "The wallet app color",
+      "The current token price",
+      "A support password"
+    ],
+    "answerIndex": 0,
+    "explanation": "The transaction hash is its unique public identifier.",
+    "difficulty": "medium",
+    "category": "wallet-safety",
+    "revision": 1
+  },
+  {
+    "id": "good-identity",
+    "prompt": "What does GoodDollar face verification help establish?",
+    "options": [
+      "One unique human identity",
+      "Guaranteed investment returns",
+      "A secret wallet key",
+      "Ownership of every address"
+    ],
+    "answerIndex": 0,
+    "explanation": "Face verification helps establish a unique human identity; linking other wallets is a separate step.",
+    "difficulty": "easy",
+    "category": "celo-gooddollar",
+    "revision": 1
+  },
+  {
+    "id": "xp-multiplier",
+    "prompt": "What does a tournament XP multiplier change?",
+    "options": [
+      "XP already in your balance",
+      "XP earned in that game",
+      "Your wallet token balance",
+      "The number of questions"
+    ],
+    "answerIndex": 1,
+    "explanation": "The multiplier applies only to earnings from that game.",
+    "difficulty": "medium",
+    "category": "celo-gooddollar",
+    "revision": 1
+  },
+  {
+    "id": "celo-native-asset",
+    "prompt": "What is the native gas token of the Celo network?",
+    "options": [
+      "CELO",
+      "G$",
+      "USDC",
+      "ETH"
+    ],
+    "answerIndex": 0,
+    "explanation": "CELO is used to pay gas on Celo. G$ is a separate token with its own utility.",
+    "difficulty": "medium",
+    "category": "celo-gooddollar",
+    "revision": 1
+  },
+  {
+    "id": "xp-boundary",
+    "prompt": "In Arcadia, what does XP represent?",
+    "options": [
+      "A transferable token",
+      "Verified game progress",
+      "A guaranteed cash payout",
+      "A wallet fee"
+    ],
+    "answerIndex": 1,
+    "explanation": "XP is an internal score for verified play. It is not transferable and does not create G$.",
+    "difficulty": "easy",
+    "category": "celo-gooddollar",
+    "revision": 1
+  },
+  {
+    "id": "largest-ocean",
+    "prompt": "Which ocean is the largest by surface area?",
+    "options": [
+      "Atlantic",
+      "Indian",
+      "Pacific",
+      "Southern"
+    ],
+    "answerIndex": 2,
+    "explanation": "The Pacific Ocean covers more surface area than all land on Earth combined.",
+    "difficulty": "easy",
+    "category": "geography",
+    "revision": 1
+  },
+  {
+    "id": "photosynthesis-gas",
+    "prompt": "Which gas do plants absorb during photosynthesis?",
+    "options": [
+      "Oxygen",
+      "Nitrogen",
+      "Hydrogen",
+      "Carbon dioxide"
+    ],
+    "answerIndex": 3,
+    "explanation": "Plants use carbon dioxide, water and light energy to produce sugars and oxygen.",
+    "difficulty": "easy",
+    "category": "science",
+    "revision": 1
+  },
+  {
+    "id": "prime-number",
+    "prompt": "Which number is prime?",
+    "options": [
+      "21",
+      "29",
+      "39",
+      "51"
+    ],
+    "answerIndex": 1,
+    "explanation": "29 has exactly two positive divisors: 1 and 29.",
+    "difficulty": "medium",
+    "category": "math-logic",
+    "revision": 1
+  },
+  {
+    "id": "ghana-capital",
+    "prompt": "What is the capital of Ghana?",
+    "options": [
+      "Kumasi",
+      "Lomé",
+      "Accra",
+      "Abidjan"
+    ],
+    "answerIndex": 2,
+    "explanation": "Accra is Ghana's capital and largest metropolitan area.",
+    "difficulty": "easy",
+    "category": "geography",
+    "revision": 1
+  },
+  {
+    "id": "binary-ten",
+    "prompt": "What is the binary representation of decimal 10?",
+    "options": [
+      "1001",
+      "1010",
+      "1100",
+      "1110"
+    ],
+    "answerIndex": 1,
+    "explanation": "Binary 1010 equals 8 + 2, which is decimal 10.",
+    "difficulty": "medium",
+    "category": "technology",
+    "revision": 1
+  },
+  {
+    "id": "water-formula",
+    "prompt": "What is the chemical formula for water?",
+    "options": [
+      "CO2",
+      "H2O",
+      "O2",
+      "NaCl"
+    ],
+    "answerIndex": 1,
+    "explanation": "A water molecule contains two hydrogen atoms and one oxygen atom.",
+    "difficulty": "easy",
+    "category": "science",
+    "revision": 1
+  },
+  {
+    "id": "author-things-fall-apart",
+    "prompt": "Who wrote Things Fall Apart?",
+    "options": [
+      "Wole Soyinka",
+      "Chimamanda Ngozi Adichie",
+      "Chinua Achebe",
+      "Ben Okri"
+    ],
+    "answerIndex": 2,
+    "explanation": "Chinua Achebe published Things Fall Apart in 1958.",
+    "difficulty": "medium",
+    "category": "history-culture",
+    "revision": 1
+  },
+  {
+    "id": "speed-distance",
+    "prompt": "A player travels 120 km in 2 hours. What is the average speed?",
+    "options": [
+      "40 km/h",
+      "50 km/h",
+      "60 km/h",
+      "80 km/h"
+    ],
+    "answerIndex": 2,
+    "explanation": "Average speed is distance divided by time: 120 ÷ 2 = 60 km/h.",
+    "difficulty": "medium",
+    "category": "math-logic",
+    "revision": 1
+  },
+  {
+    "id": "planet-red",
+    "prompt": "Which planet is commonly called the Red Planet?",
+    "options": [
+      "Venus",
+      "Mars",
+      "Jupiter",
+      "Mercury"
+    ],
+    "answerIndex": 1,
+    "explanation": "Iron minerals in the Martian soil oxidize and give Mars its reddish appearance.",
+    "difficulty": "easy",
+    "category": "science",
+    "revision": 1
+  },
+  {
+    "id": "funded-rewards",
+    "prompt": "When can Arcadia honestly show a G$ reward as available?",
+    "options": [
+      "When XP is earned",
+      "When a sponsor promises it",
+      "After funding and published rules are confirmed",
+      "Whenever a tournament opens"
+    ],
+    "answerIndex": 2,
+    "explanation": "A reward is available only after its funding is confirmed and its rules are published.",
+    "difficulty": "easy",
+    "category": "celo-gooddollar",
+    "revision": 2
+  },
+  {
+    "id": "egypt-river",
+    "difficulty": "easy",
+    "category": "geography",
+    "prompt": "Which river flows through Cairo?",
+    "options": [
+      "Congo",
+      "Zambezi",
+      "Niger",
+      "Nile"
+    ],
+    "answerIndex": 3,
+    "explanation": "Cairo stands on the Nile in Egypt.",
+    "revision": 1
+  },
+  {
+    "id": "brazil-language",
+    "difficulty": "easy",
+    "category": "geography",
+    "prompt": "What is the official language of Brazil?",
+    "options": [
+      "Italian",
+      "Spanish",
+      "French",
+      "Portuguese"
+    ],
+    "answerIndex": 3,
+    "explanation": "Portuguese is Brazil's official language.",
+    "revision": 1
+  },
+  {
+    "id": "shakespeare-romeo",
+    "difficulty": "easy",
+    "category": "history-culture",
+    "prompt": "Who wrote Romeo and Juliet?",
+    "options": [
+      "Charles Dickens",
+      "Jane Austen",
+      "Mark Twain",
+      "William Shakespeare"
+    ],
+    "answerIndex": 3,
+    "explanation": "Romeo and Juliet is a play by William Shakespeare.",
+    "revision": 1
+  },
+  {
+    "id": "pyramids-giza",
+    "difficulty": "easy",
+    "category": "history-culture",
+    "prompt": "In which country are the pyramids of Giza?",
+    "options": [
+      "Sudan",
+      "Greece",
+      "Mexico",
+      "Egypt"
+    ],
+    "answerIndex": 3,
+    "explanation": "The Giza pyramid complex is in Egypt, near Cairo.",
+    "revision": 1
+  },
+  {
+    "id": "piano-keys",
+    "difficulty": "easy",
+    "category": "history-culture",
+    "prompt": "Which instrument usually has black and white keys?",
+    "options": [
+      "Violin",
+      "Trumpet",
+      "Flute",
+      "Piano"
+    ],
+    "answerIndex": 3,
+    "explanation": "A piano has a keyboard of black and white keys.",
+    "revision": 1
+  },
+  {
+    "id": "olympic-rings",
+    "difficulty": "easy",
+    "category": "sports",
+    "prompt": "How many interlocking rings appear in the Olympic symbol?",
+    "options": [
+      "Six",
+      "Seven",
+      "Four",
+      "Five"
+    ],
+    "answerIndex": 3,
+    "explanation": "The Olympic symbol consists of five interlocking rings.",
+    "revision": 1
+  },
+  {
+    "id": "football-eleven",
+    "difficulty": "easy",
+    "category": "sports",
+    "prompt": "How many players does an association football team normally start with on the field?",
+    "options": [
+      "Twelve",
+      "Nine",
+      "Ten",
+      "Eleven"
+    ],
+    "answerIndex": 3,
+    "explanation": "A football team starts with eleven players, including its goalkeeper.",
+    "revision": 1
+  },
+  {
+    "id": "basketball-hoop",
+    "difficulty": "easy",
+    "category": "sports",
+    "prompt": "In basketball, where must the ball go to score a field goal?",
+    "options": [
+      "Across a finish line",
+      "Into a goal on the ground",
+      "Over a net",
+      "Through the basket from above"
+    ],
+    "answerIndex": 3,
+    "explanation": "A field goal is scored when the ball passes through the basket from above.",
+    "revision": 1
+  },
+  {
+    "id": "tennis-racket",
+    "difficulty": "easy",
+    "category": "sports",
+    "prompt": "Which piece of equipment is used to hit the ball in tennis?",
+    "options": [
+      "Bat",
+      "Club",
+      "Stick",
+      "Racket"
+    ],
+    "answerIndex": 3,
+    "explanation": "Tennis players strike the ball with a racket.",
+    "revision": 1
+  },
+  {
+    "id": "lungs-breathing",
+    "difficulty": "easy",
+    "category": "science",
+    "prompt": "Which organs exchange oxygen and carbon dioxide when you breathe?",
+    "options": [
+      "Stomach",
+      "Liver",
+      "Kidneys",
+      "Lungs"
+    ],
+    "answerIndex": 3,
+    "explanation": "Gas exchange takes place in tiny air sacs called alveoli in the lungs.",
+    "revision": 1
+  },
+  {
+    "id": "frozen-water",
+    "difficulty": "easy",
+    "category": "science",
+    "prompt": "What is the solid form of water called?",
+    "options": [
+      "Vapour",
+      "Steam",
+      "Mist",
+      "Ice"
+    ],
+    "answerIndex": 3,
+    "explanation": "Ice is water in its solid state.",
+    "revision": 1
+  },
+  {
+    "id": "rectangle-area",
+    "difficulty": "easy",
+    "category": "math-logic",
+    "prompt": "What is the area of a rectangle 4 cm long and 3 cm wide?",
+    "options": [
+      "12 cm²",
+      "14 cm²",
+      "24 cm²",
+      "7 cm²"
+    ],
+    "answerIndex": 0,
+    "explanation": "A rectangle's area is length multiplied by width: 4 × 3 = 12 cm².",
+    "revision": 1
+  },
+  {
+    "id": "half-hour",
+    "difficulty": "easy",
+    "category": "math-logic",
+    "prompt": "How many minutes are in half an hour?",
+    "options": [
+      "45",
+      "15",
+      "20",
+      "30"
+    ],
+    "answerIndex": 3,
+    "explanation": "An hour has 60 minutes, so half an hour is 30 minutes.",
+    "revision": 1
+  },
+  {
+    "id": "email-at",
+    "difficulty": "easy",
+    "category": "technology",
+    "prompt": "Which symbol separates the local name from the domain in an email address?",
+    "options": [
+      "@",
+      "#",
+      "&",
+      "%"
+    ],
+    "answerIndex": 0,
+    "explanation": "The @ symbol separates the local part from the domain, as in name@example.com.",
+    "revision": 1
+  },
+  {
+    "id": "web-browser",
+    "difficulty": "easy",
+    "category": "technology",
+    "prompt": "Which of these is a web browser?",
+    "options": [
+      "Bluetooth",
+      "HDMI",
+      "USB",
+      "Firefox"
+    ],
+    "answerIndex": 3,
+    "explanation": "Firefox is a web browser used to visit websites.",
+    "revision": 1
+  },
+  {
+    "id": "gooddollar-symbol",
+    "difficulty": "easy",
+    "category": "celo-gooddollar",
+    "prompt": "Which symbol represents the GoodDollar token?",
+    "options": [
+      "G$",
+      "BTC",
+      "ETH",
+      "CELO"
+    ],
+    "answerIndex": 0,
+    "explanation": "G$ is the symbol used for the GoodDollar token.",
+    "revision": 1
+  },
+  {
+    "id": "goodwallet-purpose",
+    "difficulty": "easy",
+    "category": "celo-gooddollar",
+    "prompt": "What is GoodWallet used for?",
+    "options": [
+      "Printing banknotes",
+      "Editing videos",
+      "Measuring rainfall",
+      "Managing digital assets such as G$"
+    ],
+    "answerIndex": 3,
+    "explanation": "GoodWallet is a digital wallet for managing assets such as GoodDollar's G$.",
+    "revision": 1
+  },
+  {
+    "id": "arcadia-celo-network",
+    "difficulty": "easy",
+    "category": "celo-gooddollar",
+    "prompt": "Which network does this Arcadia edition use for its wallet identity checks?",
+    "options": [
+      "Celo",
+      "Bitcoin",
+      "Solana",
+      "Litecoin"
+    ],
+    "answerIndex": 0,
+    "explanation": "This edition checks GoodDollar identity on Celo mainnet.",
+    "revision": 1
+  },
+  {
+    "id": "wallet-connection-verification",
+    "difficulty": "easy",
+    "category": "celo-gooddollar",
+    "prompt": "Does connecting a wallet by itself prove that its owner passed GoodDollar face verification?",
+    "options": [
+      "Yes, for every wallet",
+      "Only if the wallet holds CELO",
+      "Only if the address starts with 0x",
+      "No, verification must be checked separately"
+    ],
+    "answerIndex": 3,
+    "explanation": "A wallet connection and GoodDollar identity verification are separate checks.",
+    "revision": 1
+  },
+  {
+    "id": "achebe-country",
+    "difficulty": "easy",
+    "category": "history-culture",
+    "prompt": "Which country was novelist Chinua Achebe from?",
+    "options": [
+      "Nigeria",
+      "Kenya",
+      "Senegal",
+      "Ghana"
+    ],
+    "answerIndex": 0,
+    "explanation": "Chinua Achebe was a Nigerian novelist, poet and critic.",
+    "revision": 1
+  },
+  {
+    "id": "tanzania-dodoma",
+    "difficulty": "medium",
+    "category": "geography",
+    "prompt": "What is the official capital of Tanzania?",
+    "options": [
+      "Dar es Salaam",
+      "Arusha",
+      "Dodoma",
+      "Mwanza"
+    ],
+    "answerIndex": 2,
+    "explanation": "Dodoma is Tanzania's official capital; Dar es Salaam is its largest city.",
+    "revision": 1
+  },
+  {
+    "id": "strait-gibraltar",
+    "difficulty": "medium",
+    "category": "geography",
+    "prompt": "Which strait separates southern Spain from northern Morocco?",
+    "options": [
+      "Strait of Hormuz",
+      "Bering Strait",
+      "Strait of Malacca",
+      "Strait of Gibraltar"
+    ],
+    "answerIndex": 3,
+    "explanation": "The Strait of Gibraltar separates Spain and Morocco and links the Atlantic with the Mediterranean.",
+    "revision": 1
+  },
+  {
+    "id": "andes-continent",
+    "difficulty": "medium",
+    "category": "geography",
+    "prompt": "On which continent are the Andes?",
+    "options": [
+      "South America",
+      "North America",
+      "Europe",
+      "Asia"
+    ],
+    "answerIndex": 0,
+    "explanation": "The Andes run along the western side of South America.",
+    "revision": 1
+  },
+  {
+    "id": "landlocked-zambia",
+    "difficulty": "medium",
+    "category": "geography",
+    "prompt": "Which of these African countries is landlocked?",
+    "options": [
+      "Ghana",
+      "Zambia",
+      "Angola",
+      "Mozambique"
+    ],
+    "answerIndex": 1,
+    "explanation": "Zambia has no coastline; the other three countries border an ocean.",
+    "revision": 1
+  },
+  {
+    "id": "ghana-independence",
+    "difficulty": "medium",
+    "category": "history-culture",
+    "prompt": "In which year did Ghana gain independence from Britain?",
+    "options": [
+      "1947",
+      "1952",
+      "1957",
+      "1967"
+    ],
+    "answerIndex": 2,
+    "explanation": "Ghana became independent on 6 March 1957.",
+    "revision": 1
+  },
+  {
+    "id": "mali-timbuktu",
+    "difficulty": "medium",
+    "category": "history-culture",
+    "prompt": "The historic city of Timbuktu is in which present-day country?",
+    "options": [
+      "Niger",
+      "Chad",
+      "Sudan",
+      "Mali"
+    ],
+    "answerIndex": 3,
+    "explanation": "Timbuktu is in Mali and was an important centre of trade and scholarship.",
+    "revision": 1
+  },
+  {
+    "id": "orchestra-conductor",
+    "difficulty": "medium",
+    "category": "history-culture",
+    "prompt": "What is the main role of an orchestra's conductor during a performance?",
+    "options": [
+      "Coordinate the musicians' timing and interpretation",
+      "Tune every instrument while it is being played",
+      "Write down each audience member's request",
+      "Replace the percussion section"
+    ],
+    "answerIndex": 0,
+    "explanation": "A conductor coordinates tempo, entrances, balance and interpretation across the orchestra.",
+    "revision": 1
+  },
+  {
+    "id": "jane-austen-pride",
+    "difficulty": "medium",
+    "category": "history-culture",
+    "prompt": "Who wrote Pride and Prejudice?",
+    "options": [
+      "Charlotte Brontë",
+      "Jane Austen",
+      "Mary Shelley",
+      "George Eliot"
+    ],
+    "answerIndex": 1,
+    "explanation": "Jane Austen's Pride and Prejudice was published in 1813.",
+    "revision": 1
+  },
+  {
+    "id": "marathon-distance",
+    "difficulty": "medium",
+    "category": "sports",
+    "prompt": "What is the official distance of a marathon?",
+    "options": [
+      "40 km",
+      "41.195 km",
+      "42.195 km",
+      "45 km"
+    ],
+    "answerIndex": 2,
+    "explanation": "The official marathon distance is 42.195 kilometres.",
+    "revision": 1
+  },
+  {
+    "id": "tennis-zero",
+    "difficulty": "medium",
+    "category": "sports",
+    "prompt": "What is a score of zero called in tennis?",
+    "options": [
+      "Deuce",
+      "Break",
+      "Advantage",
+      "Love"
+    ],
+    "answerIndex": 3,
+    "explanation": "In tennis scoring, love means zero.",
+    "revision": 1
+  },
+  {
+    "id": "cricket-over",
+    "difficulty": "medium",
+    "category": "sports",
+    "prompt": "How many valid deliveries make up a standard over in cricket?",
+    "options": [
+      "Six",
+      "Five",
+      "Seven",
+      "Eight"
+    ],
+    "answerIndex": 0,
+    "explanation": "An over contains six valid deliveries; wides and no-balls do not count among those six.",
+    "revision": 1
+  },
+  {
+    "id": "basketball-free-throw",
+    "difficulty": "medium",
+    "category": "sports",
+    "prompt": "How many points is a successful basketball free throw worth?",
+    "options": [
+      "Two",
+      "One",
+      "Three",
+      "Four"
+    ],
+    "answerIndex": 1,
+    "explanation": "Each successful free throw is worth one point.",
+    "revision": 1
+  },
+  {
+    "id": "atomic-number",
+    "difficulty": "medium",
+    "category": "science",
+    "prompt": "An element's atomic number equals the number of what in its nucleus?",
+    "options": [
+      "Neutrons",
+      "Electron shells",
+      "Protons",
+      "Molecules"
+    ],
+    "answerIndex": 2,
+    "explanation": "The number of protons determines an element's atomic number.",
+    "revision": 1
+  },
+  {
+    "id": "red-blood-cells",
+    "difficulty": "medium",
+    "category": "science",
+    "prompt": "Which protein in red blood cells carries most of the oxygen in blood?",
+    "options": [
+      "Insulin",
+      "Keratin",
+      "Collagen",
+      "Haemoglobin"
+    ],
+    "answerIndex": 3,
+    "explanation": "Haemoglobin binds oxygen in the lungs and carries it to body tissues.",
+    "revision": 1
+  },
+  {
+    "id": "evaporation-change",
+    "difficulty": "medium",
+    "category": "science",
+    "prompt": "Evaporation changes a substance from which state to which state?",
+    "options": [
+      "Liquid to gas",
+      "Gas to liquid",
+      "Solid to liquid",
+      "Liquid to solid"
+    ],
+    "answerIndex": 0,
+    "explanation": "Evaporation is the change from a liquid into a gas at its surface.",
+    "revision": 1
+  },
+  {
+    "id": "venus-hotter",
+    "difficulty": "medium",
+    "category": "science",
+    "prompt": "Which planet has the hottest average surface temperature in our solar system?",
+    "options": [
+      "Mercury",
+      "Venus",
+      "Mars",
+      "Jupiter"
+    ],
+    "answerIndex": 1,
+    "explanation": "Venus's thick atmosphere traps heat through an intense greenhouse effect.",
+    "revision": 1
+  },
+  {
+    "id": "ratio-two-three",
+    "difficulty": "medium",
+    "category": "math-logic",
+    "prompt": "Red and blue beads are in a 2:3 ratio. If there are 25 beads, how many are red?",
+    "options": [
+      "5",
+      "8",
+      "10",
+      "15"
+    ],
+    "answerIndex": 2,
+    "explanation": "There are five ratio parts. Each is 25 ÷ 5 = 5 beads, so red has 2 × 5 = 10.",
+    "revision": 1
+  },
+  {
+    "id": "discount-twenty",
+    "difficulty": "medium",
+    "category": "math-logic",
+    "prompt": "An item costs 150 units before a 20% discount. What is the sale price?",
+    "options": [
+      "100 units",
+      "110 units",
+      "125 units",
+      "120 units"
+    ],
+    "answerIndex": 3,
+    "explanation": "Twenty percent of 150 is 30, so the sale price is 150 − 30 = 120 units.",
+    "revision": 1
+  },
+  {
+    "id": "median-five",
+    "difficulty": "medium",
+    "category": "math-logic",
+    "prompt": "What is the median of 3, 8, 10, 12 and 20?",
+    "options": [
+      "10",
+      "8",
+      "12",
+      "10.6"
+    ],
+    "answerIndex": 0,
+    "explanation": "The median is the middle value in an ordered list, which is 10.",
+    "revision": 1
+  },
+  {
+    "id": "coin-probability",
+    "difficulty": "medium",
+    "category": "math-logic",
+    "prompt": "A fair coin is tossed twice. What is the probability of getting two heads?",
+    "options": [
+      "1/2",
+      "1/4",
+      "1/3",
+      "3/4"
+    ],
+    "answerIndex": 1,
+    "explanation": "The four equally likely outcomes are HH, HT, TH and TT. Only HH has two heads.",
+    "revision": 1
+  },
+  {
+    "id": "dns-purpose",
+    "difficulty": "medium",
+    "category": "technology",
+    "prompt": "What does DNS usually translate a domain name into?",
+    "options": [
+      "A password",
+      "A file size",
+      "An IP address",
+      "A screen resolution"
+    ],
+    "answerIndex": 2,
+    "explanation": "DNS lets devices look up records such as the IP address associated with a domain name.",
+    "revision": 1
+  },
+  {
+    "id": "ram-volatile",
+    "difficulty": "medium",
+    "category": "technology",
+    "prompt": "What normally happens to data in a computer's RAM when power is removed?",
+    "options": [
+      "It becomes permanent",
+      "It moves automatically to the cloud",
+      "It is printed",
+      "It is lost"
+    ],
+    "answerIndex": 3,
+    "explanation": "Ordinary RAM is volatile memory and needs power to retain its data.",
+    "revision": 1
+  },
+  {
+    "id": "simple-interest",
+    "difficulty": "medium",
+    "category": "money",
+    "prompt": "At 5% simple interest per year, how much interest does 1,000 units earn in two years?",
+    "options": [
+      "100 units",
+      "50 units",
+      "102.5 units",
+      "200 units"
+    ],
+    "answerIndex": 0,
+    "explanation": "Simple interest is principal × rate × time: 1,000 × 0.05 × 2 = 100 units.",
+    "revision": 1
+  },
+  {
+    "id": "net-income",
+    "difficulty": "medium",
+    "category": "money",
+    "prompt": "A worker earns 1,000 units before deductions of 150 units. What is the net pay?",
+    "options": [
+      "1,150 units",
+      "850 units",
+      "1,000 units",
+      "150 units"
+    ],
+    "answerIndex": 1,
+    "explanation": "Net pay is the amount after deductions: 1,000 − 150 = 850 units.",
+    "revision": 1
+  },
+  {
+    "id": "celo-l2",
+    "difficulty": "medium",
+    "category": "celo-gooddollar",
+    "prompt": "Celo is an Ethereum layer 2. What is its settlement layer?",
+    "options": [
+      "Bitcoin",
+      "Solana",
+      "Ethereum",
+      "Dogecoin"
+    ],
+    "answerIndex": 2,
+    "explanation": "Celo operates as a layer 2 that settles to Ethereum.",
+    "revision": 1
+  },
+  {
+    "id": "celo-chain-id",
+    "difficulty": "medium",
+    "category": "celo-gooddollar",
+    "prompt": "What is Celo mainnet's chain ID?",
+    "options": [
+      "1",
+      "10",
+      "137",
+      "42220"
+    ],
+    "answerIndex": 3,
+    "explanation": "Celo mainnet uses chain ID 42220; chain IDs help wallets distinguish networks.",
+    "revision": 1
+  },
+  {
+    "id": "gooddollar-ubi",
+    "difficulty": "medium",
+    "category": "celo-gooddollar",
+    "prompt": "In GoodDollar's mission, what does UBI stand for?",
+    "options": [
+      "Universal Basic Income",
+      "Unified Banking Interface",
+      "User Balance Identifier",
+      "Universal Blockchain Insurance"
+    ],
+    "answerIndex": 0,
+    "explanation": "UBI stands for Universal Basic Income, a central part of GoodDollar's mission.",
+    "revision": 1
+  },
+  {
+    "id": "link-approval-source",
+    "difficulty": "medium",
+    "category": "celo-gooddollar",
+    "prompt": "To link a separate playing wallet in Arcadia, which wallet approves the identity-link transaction?",
+    "options": [
+      "The tournament organiser's wallet",
+      "The verified GoodDollar identity wallet",
+      "Any wallet holding G$",
+      "The game's guest account"
+    ],
+    "answerIndex": 1,
+    "explanation": "The verified identity wallet approves the on-chain link to the playing wallet.",
+    "revision": 1
+  },
+  {
+    "id": "token-approval",
+    "difficulty": "medium",
+    "category": "wallet-safety",
+    "prompt": "What does an ERC-20 token allowance normally let a spender do?",
+    "options": [
+      "Read your recovery phrase",
+      "Change the token's total supply at will",
+      "Transfer that token up to the approved amount",
+      "Take ownership of every account"
+    ],
+    "answerIndex": 2,
+    "explanation": "An allowance permits the approved spender to transfer the specified token within the allowed amount.",
+    "revision": 1
+  },
+  {
+    "id": "signature-not-transaction",
+    "difficulty": "medium",
+    "category": "wallet-safety",
+    "prompt": "What does signing Arcadia's sign-in message prove?",
+    "options": [
+      "That G$ was transferred",
+      "That face verification was completed",
+      "That a tournament was won",
+      "Control of the signing wallet"
+    ],
+    "answerIndex": 3,
+    "explanation": "The verified sign-in signature proves control of the wallet; identity verification is checked separately.",
+    "revision": 1
+  },
+  {
+    "id": "lesotho-enclave",
+    "difficulty": "hard",
+    "category": "geography",
+    "prompt": "Which country is completely surrounded by South Africa?",
+    "options": [
+      "Lesotho",
+      "Namibia",
+      "Eswatini",
+      "Botswana"
+    ],
+    "answerIndex": 0,
+    "explanation": "Lesotho is an enclave entirely surrounded by South Africa.",
+    "revision": 1
+  },
+  {
+    "id": "danube-black-sea",
+    "difficulty": "hard",
+    "category": "geography",
+    "prompt": "Into which sea does the Danube River empty?",
+    "options": [
+      "Caspian Sea",
+      "Black Sea",
+      "Adriatic Sea",
+      "Baltic Sea"
+    ],
+    "answerIndex": 1,
+    "explanation": "The Danube flows into the Black Sea through its delta.",
+    "revision": 1
+  },
+  {
+    "id": "lake-tanganyika-depth",
+    "difficulty": "hard",
+    "category": "geography",
+    "prompt": "Which is Africa's deepest lake?",
+    "options": [
+      "Lake Chad",
+      "Lake Turkana",
+      "Lake Tanganyika",
+      "Lake Victoria"
+    ],
+    "answerIndex": 2,
+    "explanation": "Lake Tanganyika is Africa's deepest lake and the world's second deepest.",
+    "revision": 1
+  },
+  {
+    "id": "bosphorus-city",
+    "difficulty": "hard",
+    "category": "geography",
+    "prompt": "Which city lies on both sides of the Bosphorus?",
+    "options": [
+      "Alexandria",
+      "Beirut",
+      "Athens",
+      "Istanbul"
+    ],
+    "answerIndex": 3,
+    "explanation": "Istanbul spans the Bosphorus, with districts in both Europe and Asia.",
+    "revision": 1
+  },
+  {
+    "id": "atacama-country",
+    "difficulty": "hard",
+    "category": "geography",
+    "prompt": "The Atacama Desert lies mainly in which country?",
+    "options": [
+      "Chile",
+      "Bolivia",
+      "Peru",
+      "Argentina"
+    ],
+    "answerIndex": 0,
+    "explanation": "The Atacama lies mainly in northern Chile along South America's Pacific coast.",
+    "revision": 1
+  },
+  {
+    "id": "landlocked-sea",
+    "difficulty": "hard",
+    "category": "geography",
+    "prompt": "Which of these bodies of water is landlocked?",
+    "options": [
+      "North Sea",
+      "Caspian Sea",
+      "Red Sea",
+      "Arabian Sea"
+    ],
+    "answerIndex": 1,
+    "explanation": "The Caspian Sea is an inland body of water with no natural outlet to an ocean.",
+    "revision": 1
+  },
+  {
+    "id": "avogadro-scale",
+    "difficulty": "hard",
+    "category": "science",
+    "prompt": "Approximately how many particles are in one mole of a substance?",
+    "options": [
+      "3.00 × 10⁸",
+      "9.81 × 10²",
+      "6.02 × 10²³",
+      "6.02 × 10¹²"
+    ],
+    "answerIndex": 2,
+    "explanation": "One mole contains exactly 6.02214076 × 10²³ specified elementary entities.",
+    "revision": 1
+  },
+  {
+    "id": "isotopes-neutrons",
+    "difficulty": "hard",
+    "category": "science",
+    "prompt": "Isotopes of the same element have different numbers of which particles?",
+    "options": [
+      "Atomic nuclei",
+      "Protons and electrons equally",
+      "Protons",
+      "Neutrons"
+    ],
+    "answerIndex": 3,
+    "explanation": "Isotopes share the same number of protons but differ in their number of neutrons.",
+    "revision": 1
+  },
+  {
+    "id": "mitochondria-atp",
+    "difficulty": "hard",
+    "category": "science",
+    "prompt": "Which organelle produces most ATP during aerobic respiration in a typical human cell?",
+    "options": [
+      "Mitochondrion",
+      "Ribosome",
+      "Golgi apparatus",
+      "Lysosome"
+    ],
+    "answerIndex": 0,
+    "explanation": "Mitochondria generate most ATP during aerobic respiration through oxidative phosphorylation.",
+    "revision": 1
+  },
+  {
+    "id": "light-year-distance",
+    "difficulty": "hard",
+    "category": "science",
+    "prompt": "One light-year is about 9.46 trillion km. About how far away is a star 4 light-years from Earth?",
+    "options": [
+      "94.6 trillion km",
+      "37.84 trillion km",
+      "2.365 trillion km",
+      "13.46 trillion km"
+    ],
+    "answerIndex": 1,
+    "explanation": "Multiply the distance light travels in one year by four: 9.46 × 4 = 37.84 trillion km.",
+    "revision": 2
+  },
+  {
+    "id": "ph-log-scale",
+    "difficulty": "hard",
+    "category": "science",
+    "prompt": "A solution's pH falls from 5 to 3. Its hydrogen-ion activity increases by what factor?",
+    "options": [
+      "10",
+      "1,000",
+      "100",
+      "2"
+    ],
+    "answerIndex": 2,
+    "explanation": "Each pH unit represents a factor of ten, so a two-unit drop means a 100-fold increase.",
+    "revision": 1
+  },
+  {
+    "id": "earth-mantle",
+    "difficulty": "hard",
+    "category": "science",
+    "prompt": "Which seismic observation is evidence that Earth's outer core is liquid?",
+    "options": [
+      "All waves stop at the crust",
+      "P-waves and S-waves travel at the same speed",
+      "P-waves cannot pass through it",
+      "S-waves cannot pass through it"
+    ],
+    "answerIndex": 3,
+    "explanation": "S-waves cannot travel through liquids. Their absence through Earth's outer core supports its liquid state.",
+    "revision": 2
+  },
+  {
+    "id": "newton-unit",
+    "difficulty": "hard",
+    "category": "science",
+    "prompt": "One newton is equivalent to which combination of SI units?",
+    "options": [
+      "kg·m/s²",
+      "kg·m²/s²",
+      "kg·m/s",
+      "kg/m²"
+    ],
+    "answerIndex": 0,
+    "explanation": "Force equals mass times acceleration, giving the unit kg·m/s².",
+    "revision": 1
+  },
+  {
+    "id": "dna-base-pair",
+    "difficulty": "hard",
+    "category": "science",
+    "prompt": "In double-stranded DNA, which base normally pairs with guanine?",
+    "options": [
+      "Uracil",
+      "Cytosine",
+      "Adenine",
+      "Thymine"
+    ],
+    "answerIndex": 1,
+    "explanation": "DNA normally pairs guanine with cytosine and adenine with thymine.",
+    "revision": 1
+  },
+  {
+    "id": "sound-fastest-medium",
+    "difficulty": "hard",
+    "category": "science",
+    "prompt": "Sound travels at 340 m/s. An echo returns 0.5 seconds after a shout. How far away is the reflecting wall?",
+    "options": [
+      "340 m",
+      "680 m",
+      "85 m",
+      "170 m"
+    ],
+    "answerIndex": 2,
+    "explanation": "Sound travels to the wall and back: distance to the wall is 340 × 0.5 ÷ 2 = 85 metres.",
+    "revision": 2
+  },
+  {
+    "id": "successive-discounts",
+    "difficulty": "hard",
+    "category": "math-logic",
+    "prompt": "A price is reduced by 20%, then by another 20%. What is the total reduction from the original price?",
+    "options": [
+      "32%",
+      "44%",
+      "40%",
+      "36%"
+    ],
+    "answerIndex": 3,
+    "explanation": "The remaining price is 0.8 × 0.8 = 0.64 of the original, so the reduction is 36%.",
+    "revision": 1
+  },
+  {
+    "id": "dice-sum-seven",
+    "difficulty": "hard",
+    "category": "math-logic",
+    "prompt": "Two fair six-sided dice are rolled. What is the probability that their sum is 7?",
+    "options": [
+      "1/6",
+      "1/3",
+      "1/12",
+      "1/7"
+    ],
+    "answerIndex": 0,
+    "explanation": "Six of the 36 equally likely ordered outcomes sum to 7, so the probability is 1/6.",
+    "revision": 1
+  },
+  {
+    "id": "polygon-hexagon",
+    "difficulty": "hard",
+    "category": "math-logic",
+    "prompt": "What is the sum of the interior angles of a convex hexagon?",
+    "options": [
+      "900°",
+      "720°",
+      "360°",
+      "540°"
+    ],
+    "answerIndex": 1,
+    "explanation": "For an n-sided polygon the sum is (n − 2) × 180°. For six sides, it is 720°.",
+    "revision": 1
+  },
+  {
+    "id": "square-diagonal",
+    "difficulty": "hard",
+    "category": "math-logic",
+    "prompt": "A square has side length 6 cm. What is its diagonal length?",
+    "options": [
+      "3√2 cm",
+      "36 cm",
+      "6√2 cm",
+      "12 cm"
+    ],
+    "answerIndex": 2,
+    "explanation": "By Pythagoras, the diagonal is √(6² + 6²) = 6√2 cm.",
+    "revision": 1
+  },
+  {
+    "id": "logarithm-thousand",
+    "difficulty": "hard",
+    "category": "math-logic",
+    "prompt": "What is log₁₀(1,000)?",
+    "options": [
+      "10",
+      "100",
+      "2",
+      "3"
+    ],
+    "answerIndex": 3,
+    "explanation": "Because 10³ = 1,000, the base-ten logarithm of 1,000 is 3.",
+    "revision": 1
+  },
+  {
+    "id": "lcm-twelve-eighteen",
+    "difficulty": "hard",
+    "category": "math-logic",
+    "prompt": "What is the least common multiple of 12 and 18?",
+    "options": [
+      "36",
+      "72",
+      "6",
+      "24"
+    ],
+    "answerIndex": 0,
+    "explanation": "36 is the smallest positive number divisible by both 12 and 18.",
+    "revision": 1
+  },
+  {
+    "id": "average-equal-distance",
+    "difficulty": "hard",
+    "category": "math-logic",
+    "prompt": "You travel equal distances at 30 km/h and 60 km/h. What is your average speed for the whole trip?",
+    "options": [
+      "35 km/h",
+      "40 km/h",
+      "45 km/h",
+      "50 km/h"
+    ],
+    "answerIndex": 1,
+    "explanation": "For 60 km each way, the trip is 120 km in 3 hours, giving 40 km/h.",
+    "revision": 1
+  },
+  {
+    "id": "fraction-recurring",
+    "difficulty": "hard",
+    "category": "math-logic",
+    "prompt": "Which fraction is exactly equal to the recurring decimal 0.272727…?",
+    "options": [
+      "2/7",
+      "7/27",
+      "3/11",
+      "27/100"
+    ],
+    "answerIndex": 2,
+    "explanation": "The recurring block gives 27/99, which simplifies to 3/11.",
+    "revision": 1
+  },
+  {
+    "id": "soyinka-nobel",
+    "difficulty": "hard",
+    "category": "history-culture",
+    "prompt": "Who became the first African laureate of the Nobel Prize in Literature in 1986?",
+    "options": [
+      "Ngũgĩ wa Thiong'o",
+      "Naguib Mahfouz",
+      "Chinua Achebe",
+      "Wole Soyinka"
+    ],
+    "answerIndex": 3,
+    "explanation": "Nigerian writer Wole Soyinka received the Nobel Prize in Literature in 1986.",
+    "revision": 1
+  },
+  {
+    "id": "haiti-independence",
+    "difficulty": "hard",
+    "category": "history-culture",
+    "prompt": "Which Caribbean country declared independence from France in 1804?",
+    "options": [
+      "Haiti",
+      "Cuba",
+      "Jamaica",
+      "Barbados"
+    ],
+    "answerIndex": 0,
+    "explanation": "Haiti declared independence in 1804 following the Haitian Revolution.",
+    "revision": 1
+  },
+  {
+    "id": "rosetta-stone-scripts",
+    "difficulty": "hard",
+    "category": "history-culture",
+    "prompt": "The Rosetta Stone carries an inscription in hieroglyphic, Demotic and which other script?",
+    "options": [
+      "Aramaic",
+      "Greek",
+      "Latin",
+      "Cuneiform"
+    ],
+    "answerIndex": 1,
+    "explanation": "The Greek text helped scholars decipher the stone's Egyptian scripts.",
+    "revision": 1
+  },
+  {
+    "id": "benin-bronzes-origin",
+    "difficulty": "hard",
+    "category": "history-culture",
+    "prompt": "The Benin Bronzes originated in a kingdom centred in which present-day country?",
+    "options": [
+      "Ghana",
+      "Togo",
+      "Nigeria",
+      "Republic of Benin"
+    ],
+    "answerIndex": 2,
+    "explanation": "The historical Kingdom of Benin was centred in Benin City in present-day Nigeria.",
+    "revision": 1
+  },
+  {
+    "id": "mansa-musa-empire",
+    "difficulty": "hard",
+    "category": "history-culture",
+    "prompt": "Mansa Musa ruled which West African empire?",
+    "options": [
+      "Ghana Empire",
+      "Oyo Empire",
+      "Songhai Empire",
+      "Mali Empire"
+    ],
+    "answerIndex": 3,
+    "explanation": "Mansa Musa was a fourteenth-century ruler of the Mali Empire.",
+    "revision": 1
+  },
+  {
+    "id": "beethoven-ninth-ode",
+    "difficulty": "hard",
+    "category": "history-culture",
+    "prompt": "Which Beethoven symphony includes the choral setting commonly called Ode to Joy?",
+    "options": [
+      "Ninth",
+      "Sixth",
+      "Third",
+      "Fifth"
+    ],
+    "answerIndex": 0,
+    "explanation": "The final movement of Beethoven's Ninth Symphony includes a setting of Schiller's Ode to Joy.",
+    "revision": 1
+  },
+  {
+    "id": "mary-shelley-frankenstein",
+    "difficulty": "hard",
+    "category": "history-culture",
+    "prompt": "Who wrote the 1818 novel Frankenstein?",
+    "options": [
+      "Emily Brontë",
+      "Mary Shelley",
+      "Bram Stoker",
+      "Ann Radcliffe"
+    ],
+    "answerIndex": 1,
+    "explanation": "Mary Shelley's Frankenstein was first published in 1818.",
+    "revision": 1
+  },
+  {
+    "id": "rugby-union-try",
+    "difficulty": "hard",
+    "category": "sports",
+    "prompt": "How many points is a try worth in rugby union?",
+    "options": [
+      "Four",
+      "Six",
+      "Five",
+      "Three"
+    ],
+    "answerIndex": 2,
+    "explanation": "A rugby union try is worth five points; a successful conversion adds two.",
+    "revision": 1
+  },
+  {
+    "id": "decathlon-events",
+    "difficulty": "hard",
+    "category": "sports",
+    "prompt": "Which event is part of the men's outdoor decathlon?",
+    "options": [
+      "3,000 m steeplechase",
+      "100 m hurdles",
+      "Triple jump",
+      "Pole vault"
+    ],
+    "answerIndex": 3,
+    "explanation": "The decathlon includes pole vault. Its hurdles race is 110 metres, and it has neither triple jump nor steeplechase.",
+    "revision": 2
+  },
+  {
+    "id": "table-tennis-game",
+    "difficulty": "hard",
+    "category": "sports",
+    "prompt": "Under standard table tennis rules, what score wins a game if the opponent has fewer than 10 points?",
+    "options": [
+      "11 points",
+      "25 points",
+      "15 points",
+      "21 points"
+    ],
+    "answerIndex": 0,
+    "explanation": "A game is normally first to 11 points, with a lead of at least two points.",
+    "revision": 1
+  },
+  {
+    "id": "chess-knight",
+    "difficulty": "hard",
+    "category": "sports",
+    "prompt": "Which chess capture is available only immediately after an opposing pawn advances two squares from its starting square?",
+    "options": [
+      "A fork",
+      "En passant",
+      "Castling",
+      "Promotion"
+    ],
+    "answerIndex": 1,
+    "explanation": "En passant lets a correctly positioned pawn capture an adjacent pawn immediately after that pawn's two-square advance.",
+    "revision": 2
+  },
+  {
+    "id": "volleyball-indoor",
+    "difficulty": "hard",
+    "category": "sports",
+    "prompt": "In standard indoor volleyball, what is the target score in the deciding fifth set, before any extension for a two-point lead?",
+    "options": [
+      "25 points",
+      "11 points",
+      "15 points",
+      "21 points"
+    ],
+    "answerIndex": 2,
+    "explanation": "The deciding fifth set is played to 15 points, with a lead of at least two points required to win.",
+    "revision": 2
+  },
+  {
+    "id": "ipv6-bits",
+    "difficulty": "hard",
+    "category": "technology",
+    "prompt": "How many bits are in an IPv6 address?",
+    "options": [
+      "32",
+      "256",
+      "64",
+      "128"
+    ],
+    "answerIndex": 3,
+    "explanation": "IPv6 uses 128-bit addresses; IPv4 uses 32-bit addresses.",
+    "revision": 1
+  },
+  {
+    "id": "binary-search-complexity",
+    "difficulty": "hard",
+    "category": "technology",
+    "prompt": "What is the usual worst-case time complexity of binary search on a sorted array?",
+    "options": [
+      "O(log n)",
+      "O(1)",
+      "O(n)",
+      "O(n²)"
+    ],
+    "answerIndex": 0,
+    "explanation": "Binary search halves the remaining search range at each step, giving O(log n) time.",
+    "revision": 1
+  },
+  {
+    "id": "sql-primary-key",
+    "difficulty": "hard",
+    "category": "technology",
+    "prompt": "What does a primary key do in a relational database table?",
+    "options": [
+      "Store only text",
+      "Uniquely identify each row",
+      "Encrypt every column",
+      "Sort every query automatically"
+    ],
+    "answerIndex": 1,
+    "explanation": "A primary key uniquely identifies each row and cannot contain null key values.",
+    "revision": 1
+  },
+  {
+    "id": "http-not-found",
+    "difficulty": "hard",
+    "category": "technology",
+    "prompt": "Which HTTP method is defined as idempotent but not safe?",
+    "options": [
+      "POST",
+      "CONNECT",
+      "PUT",
+      "GET"
+    ],
+    "answerIndex": 2,
+    "explanation": "Repeating the same PUT is intended to have the same effect as one PUT, but PUT can change server state, so it is not safe.",
+    "revision": 2
+  },
+  {
+    "id": "lossless-compression",
+    "difficulty": "hard",
+    "category": "technology",
+    "prompt": "What can a lossless compression method NOT guarantee for every possible input?",
+    "options": [
+      "Preserving all original information",
+      "Reconstructing the original bytes",
+      "Exact recovery with the decoder",
+      "An output shorter than the input"
+    ],
+    "answerIndex": 3,
+    "explanation": "Not every input can map to a shorter unique output. Some data stays the same size or grows under lossless compression.",
+    "revision": 2
+  },
+  {
+    "id": "compound-two-years",
+    "difficulty": "hard",
+    "category": "money",
+    "prompt": "At 10% interest compounded annually, what does 1,000 units become after two years, ignoring fees and taxes?",
+    "options": [
+      "1,210 units",
+      "1,220 units",
+      "1,100 units",
+      "1,200 units"
+    ],
+    "answerIndex": 0,
+    "explanation": "The value is 1,000 × 1.10 × 1.10 = 1,210 units.",
+    "revision": 1
+  },
+  {
+    "id": "real-return",
+    "difficulty": "hard",
+    "category": "money",
+    "prompt": "An investment gains 10% while prices rise 10% over the same period. Ignoring taxes and fees, what happens to its purchasing power?",
+    "options": [
+      "It rises by 20%",
+      "It stays the same",
+      "It rises by 10%",
+      "It falls by 10%"
+    ],
+    "answerIndex": 1,
+    "explanation": "Both the investment value and prices multiply by 1.10, leaving purchasing power unchanged.",
+    "revision": 1
+  },
+  {
+    "id": "profit-margin",
+    "difficulty": "hard",
+    "category": "money",
+    "prompt": "An item sells for 100 units and costs 75 units to produce. What is its gross profit margin as a percentage of sales?",
+    "options": [
+      "75%",
+      "20%",
+      "25%",
+      "33⅓%"
+    ],
+    "answerIndex": 2,
+    "explanation": "Gross profit is 25 units. Dividing by sales of 100 gives a margin of 25%.",
+    "revision": 1
+  },
+  {
+    "id": "bond-price-yield",
+    "difficulty": "hard",
+    "category": "money",
+    "prompt": "For a fixed-rate bond with unchanged payments, what generally happens to its yield when its market price rises?",
+    "options": [
+      "It becomes zero",
+      "It must equal inflation",
+      "It rises",
+      "It falls"
+    ],
+    "answerIndex": 3,
+    "explanation": "With the same future payments, paying a higher price produces a lower yield.",
+    "revision": 1
+  },
+  {
+    "id": "celo-evm",
+    "difficulty": "hard",
+    "category": "celo-gooddollar",
+    "prompt": "What does Celo being EVM-compatible allow developers to reuse?",
+    "options": [
+      "Ethereum smart-contract tools and Solidity code",
+      "Any website as an on-chain contract without changes",
+      "Bitcoin's mining hardware requirements",
+      "Solana-only programs without changes"
+    ],
+    "answerIndex": 0,
+    "explanation": "EVM compatibility lets developers use Ethereum tooling and Solidity smart contracts on Celo.",
+    "revision": 1
+  },
+  {
+    "id": "celo-fee-currency",
+    "difficulty": "hard",
+    "category": "celo-gooddollar",
+    "prompt": "In a Celo transaction that pays fees using an eligible ERC-20 token, what does the feeCurrency field identify?",
+    "options": [
+      "The sender's recovery phrase",
+      "The currency used to pay the transaction fee",
+      "The recipient's bank account",
+      "The token's market price"
+    ],
+    "answerIndex": 1,
+    "explanation": "The feeCurrency field selects an eligible fee currency through its registered contract address, which can be an adapter.",
+    "revision": 2
+  },
+  {
+    "id": "linked-identity-count",
+    "difficulty": "hard",
+    "category": "celo-gooddollar",
+    "prompt": "A player finishes four tournament games, then signs in with another wallet linked to the same GoodDollar identity. What is the next game's XP multiplier in Arcadia?",
+    "options": [
+      "50%",
+      "10%",
+      "75%",
+      "100%"
+    ],
+    "answerIndex": 2,
+    "explanation": "Game counts belong to the verified identity. Switching linked wallets does not reset the count, so game five earns 75%.",
+    "revision": 1
+  },
+  {
+    "id": "gooddollar-base-units",
+    "difficulty": "hard",
+    "category": "celo-gooddollar",
+    "prompt": "Celo's G$ token has 18 decimals. How many G$ do 2,500,000,000,000,000,000 base units represent?",
+    "options": [
+      "25 G$",
+      "250 G$",
+      "0.25 G$",
+      "2.5 G$"
+    ],
+    "answerIndex": 3,
+    "explanation": "Divide the raw amount by 10¹⁸: 2,500,000,000,000,000,000 ÷ 10¹⁸ = 2.5 G$.",
+    "revision": 1
+  },
+  {
+    "id": "allowance-revocation",
+    "difficulty": "hard",
+    "category": "wallet-safety",
+    "prompt": "What does successfully revoking an ERC-20 spender's allowance normally prevent?",
+    "options": [
+      "Further transfers through that allowance",
+      "The wallet from receiving tokens",
+      "Every future transaction from the wallet",
+      "Anyone from seeing past transfers"
+    ],
+    "answerIndex": 0,
+    "explanation": "Revocation removes that spender's permission through the allowance; it does not erase past transfers.",
+    "revision": 1
+  },
+  {
+    "id": "eip1271-purpose",
+    "difficulty": "hard",
+    "category": "wallet-safety",
+    "prompt": "What does Ethereum's EIP-1271 standard let a smart-contract wallet do?",
+    "options": [
+      "Make its balance private",
+      "Report whether a signature is valid",
+      "Generate a recovery phrase for every user",
+      "Remove all transaction fees"
+    ],
+    "answerIndex": 1,
+    "explanation": "EIP-1271 defines a standard interface for smart contracts to validate signatures.",
+    "revision": 1
+  }
+]

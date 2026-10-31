@@ -1,0 +1,13 @@
+.data
+.atlas
+.agents
+.impeccable
+.env*
+test-results
+playwright-report
+contracts
+tests
+docs
+data
+scripts
+*.tsbuildinfo

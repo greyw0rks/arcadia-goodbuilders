@@ -1,0 +1,38 @@
+{
+  "checkedAt": "2026-10-31T08:55:27.164Z",
+  "chainId": 42220,
+  "escrow": "0x876b0684b3d156434c3fc83dc807ec274c3c9273",
+  "sponsor": "0xc61bbc0cf5694ef410a578a9833f77c173790450",
+  "token": "0x62B8B11039FcfE5aB0C56E502b1C372A3d2a9c7A",
+  "amount": "6426.91913403696607823",
+  "amountRaw": "6426919134036966078230",
+  "contractBalance": "6426.91913403696607823",
+  "endsAt": 1793923200000,
+  "deploymentMatchesReviewedPlan": true,
+  "exactApproval": true,
+  "exactTransfer": true,
+  "fundedEvent": true,
+  "funded": true,
+  "walletApprovedByUser": true,
+  "transactionsSentByAgent": false,
+  "receipts": [
+    {
+      "hash": "0xbac352770878d00f7819eadd14c9821522dd803ba382ab26c8404f1dce2c37a0",
+      "blockNumber": "81535893",
+      "confirmations": "276",
+      "gasCostCelo": "0.2460867534697"
+    },
+    {
+      "hash": "0x04d06422a3cb9f7cef97526c78b2b6052116dcecdd55691593459fc607bf4cb9",
+      "blockNumber": "81535974",
+      "confirmations": "195",
+      "gasCostCelo": "0.010318938"
+    },
+    {
+      "hash": "0x1ff79bc4fc93f2e2b77af36427a3a23e2ed6ac193e1077cf37a5aa4f474beeda",
+      "blockNumber": "81536016",
+      "confirmations": "153",
+      "gasCostCelo": "0.099554697"
+    }
+  ]
+}
